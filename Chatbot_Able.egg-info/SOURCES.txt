@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Chatbot_Able.egg-info/PKG-INFO
+Chatbot_Able.egg-info/SOURCES.txt
+Chatbot_Able.egg-info/dependency_links.txt
+Chatbot_Able.egg-info/top_level.txt
