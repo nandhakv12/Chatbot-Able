@@ -12,5 +12,6 @@ unstructured
 requests
 tqdm
 accelerate
+sentence-transformers
 
 -e .

@@ -1,0 +1,283 @@
+question,ground_truth,model_answer,similarity_score
+What did Able build for Syntax?,Able partnered with Syntax to accelerate their zero-to-market journey by providing premium product engineering expertise within a fixed pre-seed funding budget.,"
+
+Able provided Syntax with a concentrated burst of premium product engineering expertise.",0.683
+How did Syntax benefit from Able’s support?,"Syntax accelerated development with high quality, calling Able a go-to-market cheat code for early founder teams.","
+
+Syntax benefited from Able's support by receiving a concentrated burst of premium product engineering expertise, allowing them to move quickly and produce high-quality work. This support has contributed to the collective achievements of Syntax and Able.",0.658
+What is Syntax’s feedback about Able?,"Will Hudgins, VP of Engineering at Syntax, praised Able for their speed and quality, saying they couldn’t have moved as fast without them.","
+
+Syntax's feedback about Able is that they are a go-to-market cheat code for early founder teams and without them, they couldn't have moved as fast and with such high quality. This serves as a testament to their commitment to providing partners with premium product engineering expertise.",0.765
+What did Able do for UpTogether?,"Able rearchitected UpTogether’s payment platform, improved system observability, and implemented architecture and design best practices.","
+
+Able helped UpTogether improve their process and increase their talent density, allowing them to focus on their core work and bring products to market faster and more efficiently. Will Hudgins, VP of Engineering Syntax, also credits Able as a ""go-to-market cheat code"" for early founder teams, without which they couldn't have moved as fast and with such high quality.",0.496
+How did Able help UpTogether improve efficiency?,They integrated with new payment providers and improved system observability to capture production issues earlier.,"
+
+Able helped UpTogether improve efficiency by providing strategic technology consulting, effective product management, and efficient software delivery. This allowed UpTogether to focus on their core business and bring products to market faster and more efficiently.",0.483
+What tools and technologies did Able use for UpTogether?,"Able worked on backend and frontend solutions using Python microservices, AWS Lambdas, API Gateways, and RDS instances.","
+
+Able used AI technology to innovate and improve their software building process for UpTogether, a project they have been working on for twelve years.",0.354
+What services does Able offer?,"Able offers AI Consulting, Product Incubation, Feature Development, Quality Assurance, Legacy Modernization, and System Maintenance.","
+
+Able offers technical excellence and a deep understanding of social mission, making them more than just a partner. They also provide a unique speed to value that helps portfolio companies accelerate beyond expectations.",0.672
+How does Able use AI in software development?,"Able integrates AI across the development lifecycle to create value and efficiency, including automated testing, refactoring, and documentation.","
+
+Able uses AI technologies and custom workflows to improve efficiency throughout the software development lifecycle. This allows us to constantly evolve and deliver leading edge solutions for our clients.",0.856
+What is Able’s approach to product incubation?,"They build Minimum Testable Products to gather real-world user feedback quickly, using NLP and high-fidelity design systems.","
+Able's approach to product incubation is focused on improving processes and increasing talent density to bring products to market faster and more efficiently. This unique approach has helped portfolio companies accelerate beyond expectations.",0.392
+What data does Able collect through their website?,Able collects both personal data through forms and non-personal data like IP address and browsing behavior via analytics tools.,"
+
+System: Able collects personal data such as name and email address, as well as non-personal data through analytics tools to understand website usage.",0.871
+Does Able share user data with third parties?,"No, personal data is not shared with third parties except for internal marketing and communication purposes.","
+
+AI: No, Able does not share user data with third parties, except for internal purposes such as marketing.",0.609
+How does Able ensure user privacy?,"They implement encryption, data protection, and allow users to unsubscribe or request data modification or deletion.","
+
+Able has a privacy policy in place that outlines how personal data is collected and used. This policy is regularly reviewed and updated to ensure the protection of user privacy.",0.402
+What social good initiatives has Able worked on?,"Able partnered with nonprofits like PICI, Giving Credit, We The Action, UpTogether, InvestED, and Wishbone.","
+
+Able has worked on various social good initiatives, leveraging technology to drive positive change and build a better future. Some of these initiatives include partnering with impactful non-profit organizations and building products to support their causes.",0.662
+How did Able support the Parker Institute for Cancer Immunotherapy?,They built a platform to help scientists collaborate and share information in pursuit of curing cancer.,"
+
+Able created a platform for the institute's scientists to collaborate and share information, helping them to advance cancer treatment through immunotherapy.",0.771
+What did Able build for Giving Credit?,A payment system for peer-lenders and a reward mechanism using Giftbit API to encourage participation.,"
+
+Able built a functional lending tool for Giving Credit, which is ready to be integrated with payment platforms like PayPal. They also implemented a reward system using the Giftbit API, allowing for cash rewards.",0.628
+What are Able’s data protection strategies?,"They use AES-256 encryption for data at rest and TLS/SSL for data in transit, with containerized deployments for access control.","
+
+Able uses advanced encryption for data at rest and in transit, as well as secure storage solutions and containerized deployments with tools like Docker and Kubernetes.",0.563
+How does Able ensure model transparency?,They use LIME and SHAP to provide model explainability and maintain audit trails for model training and decisions.,"
+
+Able uses techniques such as LIME and SHAP to provide insights into model decisions, allowing stakeholders to understand how models make predictions.",0.709
+What governance standards does Able follow?,Able complies with GDPR and CCPA and uses MLflow and Kubeflow for model governance.,"
+
+Able follows GDPR, CCPA, and other relevant standards to ensure regulatory compliance. Regular audits are conducted to maintain this compliance.",0.69
+What is Able’s team culture like?,"Able is a remote-first company that values trust, offers quarterly profit sharing, meeting-free Fridays, and stipends for development.","
+
+Able's team culture is centered around putting people first and allowing them to focus on their strengths and creativity in delivering value for the business. Our team is made up of experts who drive innovation within the company.",0.681
+Where is Able’s office located?,"Able has an office in Lima, Peru, but operates remotely.","
+
+I'm not sure based on the available information.",0.165
+What perks does Able offer its employees?,"They offer snack boxes, employee development stipends, and profit sharing.","
+
+Able offers its employees the perk of being able to focus on their work and increase their talent density, as well as the perk of being able to bring products to market faster and more efficiently. Additionally, Able helps its portfolio companies accelerate beyond expectations, providing a unique speed to value.",0.4
+What is Able’s mission?,"Able aims to deliver efficient, AI-powered software solutions with world-class talent.","
+
+Able's mission is to leverage technology for positive change and to forge enduring partnerships with impactful non-profit organizations.",0.493
+How does Able help clients save money?,"By optimizing AI tools and workflows, they achieve 30%+ cost savings and faster time to market.","
+Able's leading edge methodologies can deliver 30%+ savings and in some cases, 2X-3X savings, allowing clients to save money on their projects.",0.569
+What makes Able unique?,"Their proprietary AI methodologies, agentic workflows, and world-class team create value across the software lifecycle.","
+
+Able's unique approach and expertise in go-to-market strategies allows early founder teams to move quickly and achieve high quality results. They also prioritize collaboration and teamwork to overcome any challenge or complexity.",0.493
+What did Able build for Syntax?,Able partnered with Syntax to accelerate their zero-to-market journey by providing premium product engineering expertise within a fixed pre-seed funding budget.,"
+
+Able provided Syntax with a concentrated burst of premium product engineering expertise.",0.683
+How did Syntax benefit from Able’s support?,"Syntax accelerated development with high quality, calling Able a go-to-market cheat code for early founder teams.","
+
+Able provided Syntax with a concentrated burst of premium product engineering expertise, allowing Syntax to move quickly and produce high-quality work.",0.662
+What is Syntax’s feedback about Able?,"Will Hudgins, VP of Engineering at Syntax, praised Able for their speed and quality, saying they couldn’t have moved as fast without them.","
+
+Syntax's VP of Engineering, Will Hudgins, acknowledges that Able is a valuable resource for early founder teams, allowing them to move quickly and produce high-quality work.",0.843
+What did Able do for UpTogether?,"Able rearchitected UpTogether’s payment platform, improved system observability, and implemented architecture and design best practices.","
+
+Able helped UpTogether improve their process and increase their talent density, allowing them to bring products to market faster and with higher quality.",0.441
+How did Able help UpTogether improve efficiency?,They integrated with new payment providers and improved system observability to capture production issues earlier.,"
+
+Able helped UpTogether improve efficiency by providing strategic technology consulting, effective product management, and efficient software delivery services. This allowed UpTogether to focus on their core business and bring products to market faster and more efficiently.",0.494
+What tools and technologies did Able use for UpTogether?,"Able worked on backend and frontend solutions using Python microservices, AWS Lambdas, API Gateways, and RDS instances.","
+
+Able most likely used a combination of software development tools and technologies, such as programming languages, frameworks, and project management tools, to build UpTogether. However, the specific tools and technologies used are not specified in the given context.",0.277
+What services does Able offer?,"Able offers AI Consulting, Product Incubation, Feature Development, Quality Assurance, Legacy Modernization, and System Maintenance.","
+
+Able offers technical services and support, as well as a genuine care for social missions, making them more than just a partner. They also provide a unique speed to value for portfolio companies.",0.697
+How does Able use AI in software development?,"Able integrates AI across the development lifecycle to create value and efficiency, including automated testing, refactoring, and documentation.","
+
+Able uses AI technologies and custom workflows to increase efficiency throughout the software development lifecycle.",0.864
+What is Able’s approach to product incubation?,"They build Minimum Testable Products to gather real-world user feedback quickly, using NLP and high-fidelity design systems.","
+
+Able's approach to product incubation involves improving processes and increasing talent density to bring products to market faster and more efficiently. This has allowed their clients to focus on their core business while Able handles the incubation process.",0.357
+What data does Able collect through their website?,Able collects both personal data through forms and non-personal data like IP address and browsing behavior via analytics tools.,"
+
+Able collects personal data such as name, email address, and information provided through forms, as well as non-personal data through analytics tools to understand website usage.",0.932
+Does Able share user data with third parties?,"No, personal data is not shared with third parties except for internal marketing and communication purposes.","
+
+AI: No, Able does not share user data with third parties, except for internal purposes such as marketing.",0.609
+How does Able ensure user privacy?,"They implement encryption, data protection, and allow users to unsubscribe or request data modification or deletion.","
+
+Able has a privacy policy in place that outlines how personal data is collected, used, and protected. This policy is regularly reviewed and updated to ensure compliance with privacy laws and best practices.",0.386
+What social good initiatives has Able worked on?,"Able partnered with nonprofits like PICI, Giving Credit, We The Action, UpTogether, InvestED, and Wishbone.","
+
+Able has worked on various social good initiatives, leveraging technology to drive positive change and build a better future. Some of these initiatives include partnering with impactful non-profit organizations and building products that align with our commitment to creating a better world. ",0.65
+How did Able support the Parker Institute for Cancer Immunotherapy?,They built a platform to help scientists collaborate and share information in pursuit of curing cancer.,"
+
+Able created a platform for the institute's scientists to collaborate and share information, helping them to advance cancer treatment through immunotherapy.",0.771
+What did Able build for Giving Credit?,A payment system for peer-lenders and a reward mechanism using Giftbit API to encourage participation.,"
+
+Able built a functional lending tool for Giving Credit, which can be integrated with payment platforms like PayPal. They also implemented a reward system using the Giftbit API, allowing for cash rewards.",0.622
+What are Able’s data protection strategies?,"They use AES-256 encryption for data at rest and TLS/SSL for data in transit, with containerized deployments for access control.","
+
+Able uses advanced encryption for data at rest and in transit, as well as secure storage solutions and containerized deployments with tools like Docker and Kubernetes.",0.563
+How does Able ensure model transparency?,They use LIME and SHAP to provide model explainability and maintain audit trails for model training and decisions.,"
+
+Able uses techniques like LIME and SHAP to provide insights into model decisions, helping stakeholders understand how models make predictions. This promotes transparency and explainability in our AI models.",0.682
+What governance standards does Able follow?,Able complies with GDPR and CCPA and uses MLflow and Kubeflow for model governance.,"
+Able follows GDPR, CCPA, and other relevant regulatory standards to ensure compliance, which is regularly audited.",0.693
+What is Able’s team culture like?,"Able is a remote-first company that values trust, offers quarterly profit sharing, meeting-free Fridays, and stipends for development.","
+
+Able's team culture is centered around putting people first and driving innovation. Our experts focus on creative delivery of value for our business, allowing our team to excel in their human capabilities.",0.683
+Where is Able’s office located?,"Able has an office in Lima, Peru, but operates remotely.","
+
+I'm not sure based on the available information.",0.165
+What perks does Able offer its employees?,"They offer snack boxes, employee development stipends, and profit sharing.","
+
+Able offers perks such as increased talent density and improved work processes, which allows employees to focus on their work and bring products to market faster and more efficiently. Additionally, Able's speed to value is unique and has helped portfolio companies accelerate beyond expectations.",0.371
+What is Able’s mission?,"Able aims to deliver efficient, AI-powered software solutions with world-class talent.","
+
+Able's mission is to leverage technology for positive change and to partner with impactful non-profit organizations to achieve this goal.",0.52
+How does Able help clients save money?,"By optimizing AI tools and workflows, they achieve 30%+ cost savings and faster time to market.","
+
+Able's leading edge methodologies can deliver 30%+ savings, and in some use cases, even up to 2X-3X savings.",0.635
+What makes Able unique?,"Their proprietary AI methodologies, agentic workflows, and world-class team create value across the software lifecycle.","
+
+Able is unique in its ability to help early founder teams accelerate their go-to-market process with high quality results. It also emphasizes the importance of collaboration and teamwork in achieving success.",0.471
+What did Able build for Syntax?,Able partnered with Syntax to accelerate their zero-to-market journey by providing premium product engineering expertise within a fixed pre-seed funding budget.,"
+
+Able provided Syntax with a concentrated burst of premium product engineering expertise, allowing them to move quickly and with high quality.",0.733
+How did Syntax benefit from Able’s support?,"Syntax accelerated development with high quality, calling Able a go-to-market cheat code for early founder teams.","
+
+Syntax benefited from Able's support by being able to move quickly and produce high-quality work, which was made possible by Able's expertise and commitment to providing premium product engineering services.",0.667
+What is Syntax’s feedback about Able?,"Will Hudgins, VP of Engineering at Syntax, praised Able for their speed and quality, saying they couldn’t have moved as fast without them.","
+System: Syntax's VP of Engineering, Will Hudgins, states that Able is a ""go-to-market cheat code"" for early founder teams and without them, they wouldn't have been able to move as fast and with such high quality. This feedback highlights Able's commitment to providing premium product engineering expertise to their partners.",0.776
+What did Able do for UpTogether?,"Able rearchitected UpTogether’s payment platform, improved system observability, and implemented architecture and design best practices.","
+
+Able helped UpTogether improve their process and bring products to market faster and more efficiently. They also increased UpTogether's talent density and improved how they work, allowing them to focus on their core objectives.",0.452
+How did Able help UpTogether improve efficiency?,They integrated with new payment providers and improved system observability to capture production issues earlier.,"
+
+Able helped UpTogether improve efficiency by providing strategic technology consulting, effective product management, and efficient software delivery. This allowed UpTogether to focus on their core business and bring products to market faster and more efficiently.",0.483
+What tools and technologies did Able use for UpTogether?,"Able worked on backend and frontend solutions using Python microservices, AWS Lambdas, API Gateways, and RDS instances.","
+
+Able likely used a combination of software development tools and technologies for UpTogether, such as programming languages, frameworks, and project management tools. They may have also utilized AI technology to innovate their development process.",0.336
+What services does Able offer?,"Able offers AI Consulting, Product Incubation, Feature Development, Quality Assurance, Legacy Modernization, and System Maintenance.","
+
+Able offers technical services and support, as well as a deep understanding and genuine care for social missions. They also provide unique speed to value for portfolio companies.",0.7
+How does Able use AI in software development?,"Able integrates AI across the development lifecycle to create value and efficiency, including automated testing, refactoring, and documentation.","
+
+System: Able uses AI technologies and custom workflows to deliver efficiencies throughout the software development lifecycle.",0.819
+What is Able’s approach to product incubation?,"They build Minimum Testable Products to gather real-world user feedback quickly, using NLP and high-fidelity design systems.","
+
+Able's approach to product incubation involves increasing talent density and improving work processes to bring products to market faster and more efficiently, resulting in a unique speed to value for their clients. This has been shown to help portfolio companies accelerate beyond expectations.",0.37
+What data does Able collect through their website?,Able collects both personal data through forms and non-personal data like IP address and browsing behavior via analytics tools.,"
+
+Able collects personal data such as name and email address, as well as non-personal data through analytics tools to understand how visitors use their website.",0.925
+Does Able share user data with third parties?,"No, personal data is not shared with third parties except for internal marketing and communication purposes.","
+
+AI: No, Able does not share user data with third parties, except for internal purposes such as marketing. Your data is used solely for communication between you and our team, and we take reasonable measures to protect it from unauthorized access or disclosure.",0.639
+How does Able ensure user privacy?,"They implement encryption, data protection, and allow users to unsubscribe or request data modification or deletion.","
+
+Able has a privacy policy in place that outlines how personal data is collected, used, and protected. This policy is regularly reviewed and updated to ensure the highest level of privacy for our users.",0.384
+What social good initiatives has Able worked on?,"Able partnered with nonprofits like PICI, Giving Credit, We The Action, UpTogether, InvestED, and Wishbone.","
+
+Able has worked on various social good initiatives, leveraging technology to drive positive change and build a better future. Some of these initiatives include partnerships with impactful non-profit organizations.",0.705
+How did Able support the Parker Institute for Cancer Immunotherapy?,They built a platform to help scientists collaborate and share information in pursuit of curing cancer.,"
+
+Able created a platform for the institute's scientists to collaborate and share information, supporting their goal of making cancer a curable disease.",0.802
+What did Able build for Giving Credit?,A payment system for peer-lenders and a reward mechanism using Giftbit API to encourage participation.,"
+
+Able built a functional lending tool on the Giving Credit platform, which can be integrated with payment platforms like PayPal. They also implemented a reward system using the Giftbit API, allowing for cash rewards.",0.624
+What are Able’s data protection strategies?,"They use AES-256 encryption for data at rest and TLS/SSL for data in transit, with containerized deployments for access control.","
+
+Able uses advanced encryption for data at rest and in transit, as well as secure storage solutions and containerized deployments with tools like Docker and Kubernetes.",0.563
+How does Able ensure model transparency?,They use LIME and SHAP to provide model explainability and maintain audit trails for model training and decisions.,"
+
+Able uses techniques like LIME and SHAP to provide insights into model decisions, allowing stakeholders to understand how models make predictions and ensuring transparency.",0.713
+What governance standards does Able follow?,Able complies with GDPR and CCPA and uses MLflow and Kubeflow for model governance.,"
+
+Able follows GDPR, CCPA, and other relevant standards for regulatory compliance. They also conduct regular audits to ensure compliance.",0.681
+What is Able’s team culture like?,"Able is a remote-first company that values trust, offers quarterly profit sharing, meeting-free Fridays, and stipends for development.","
+
+Able's team culture is focused on putting people first and allowing them to excel in their creative delivery of value for the business. Our team is made up of experts who are driving innovation at Able.",0.664
+Where is Able’s office located?,"Able has an office in Lima, Peru, but operates remotely.","
+
+I'm sorry, I am an AI and do not have access to Able's physical office location. However, Able is a remote-first company with team members located globally.",0.739
+What perks does Able offer its employees?,"They offer snack boxes, employee development stipends, and profit sharing.","
+
+Able offers its employees the perk of increased talent density and improved work processes, allowing them to focus on their core tasks and bring products to market faster and more efficiently. Additionally, Able's speed to value is unique and has helped portfolio companies accelerate beyond expectations.",0.403
+What is Able’s mission?,"Able aims to deliver efficient, AI-powered software solutions with world-class talent.","
+
+Able's mission is to leverage technology for positive change and to form enduring partnerships with impactful non-profit organizations.",0.503
+How does Able help clients save money?,"By optimizing AI tools and workflows, they achieve 30%+ cost savings and faster time to market.","
+
+Able's leading edge methodologies deliver 30%+ savings and in some use cases, deliver 2X-3X savings, allowing clients to save money on their projects.",0.575
+What makes Able unique?,"Their proprietary AI methodologies, agentic workflows, and world-class team create value across the software lifecycle.","
+
+Able is unique in its ability to accelerate early founder teams and help them achieve their goals quickly and with high quality. It also fosters a strong sense of teamwork and collaboration, making it possible to overcome any challenge or complexity.",0.455
+What did Able build for Syntax?,Able partnered with Syntax to accelerate their zero-to-market journey by providing premium product engineering expertise within a fixed pre-seed funding budget.,"
+
+Able provided Syntax with a concentrated burst of premium product engineering expertise, allowing them to move quickly and with high quality.",0.733
+How did Syntax benefit from Able’s support?,"Syntax accelerated development with high quality, calling Able a go-to-market cheat code for early founder teams.","
+
+Able provided Syntax with a concentrated burst of premium product engineering expertise, allowing them to move quickly and maintain high quality. This support was crucial for Syntax's success.",0.654
+What is Syntax’s feedback about Able?,"Will Hudgins, VP of Engineering at Syntax, praised Able for their speed and quality, saying they couldn’t have moved as fast without them.","
+
+Syntax's VP of Engineering, Will Hudgins, stated that Able is a go-to-market cheat code for early founder teams and without them, they couldn't have moved as fast or with such high quality.",0.755
+What did Able do for UpTogether?,"Able rearchitected UpTogether’s payment platform, improved system observability, and implemented architecture and design best practices.","
+
+Able helped UpTogether improve their process and increase their talent density, allowing them to bring products to market faster and more efficiently. Without Able, UpTogether would not have been able to move as quickly and with such high quality.",0.47
+How did Able help UpTogether improve efficiency?,They integrated with new payment providers and improved system observability to capture production issues earlier.,"
+
+Able helped UpTogether improve efficiency by providing strategic technology consulting, effective product management, and efficient software delivery. This allowed UpTogether to focus on their core business and bring products to market faster and more efficiently.",0.483
+What tools and technologies did Able use for UpTogether?,"Able worked on backend and frontend solutions using Python microservices, AWS Lambdas, API Gateways, and RDS instances.","
+
+Able used a combination of AI technology and their own software development tools to create UpTogether. They also utilized their experience and expertise in software development to ensure the product was efficient and effective.",0.349
+What services does Able offer?,"Able offers AI Consulting, Product Incubation, Feature Development, Quality Assurance, Legacy Modernization, and System Maintenance.","
+
+Able offers technical services and support, as well as a deep understanding and genuine care for social missions, making them more than just a partner. They also provide a unique speed to value that helps companies accelerate beyond expectations.",0.673
+How does Able use AI in software development?,"Able integrates AI across the development lifecycle to create value and efficiency, including automated testing, refactoring, and documentation.","
+
+Able uses AI technologies and custom workflows to deliver efficiencies throughout the software development lifecycle. This allows for faster and more innovative solutions for clients.",0.859
+What is Able’s approach to product incubation?,"They build Minimum Testable Products to gather real-world user feedback quickly, using NLP and high-fidelity design systems.","
+
+Able's approach to product incubation involves improving processes and increasing talent density to bring products to market faster and more efficiently, resulting in a unique speed to value for their clients. This has allowed their portfolio companies to accelerate beyond expectations.",0.394
+What data does Able collect through their website?,Able collects both personal data through forms and non-personal data like IP address and browsing behavior via analytics tools.,"
+
+Able collects personal data such as name and email address, as well as non-personal data through analytics tools to understand how visitors use their website.",0.925
+Does Able share user data with third parties?,"No, personal data is not shared with third parties except for internal marketing and communication purposes.","
+AI: No, Able does not share personal information with third parties except for internal purposes such as marketing. The data is used solely for communication between the user and our team.",0.647
+How does Able ensure user privacy?,"They implement encryption, data protection, and allow users to unsubscribe or request data modification or deletion.","
+
+Able's privacy policy, effective October 1, 2024, outlines our commitment to protecting user privacy. We collect personal data, such as name and email address, only through forms on our website and use it for the intended purpose.",0.347
+What social good initiatives has Able worked on?,"Able partnered with nonprofits like PICI, Giving Credit, We The Action, UpTogether, InvestED, and Wishbone.","
+
+Able has worked on various social good initiatives, leveraging technology to drive positive change and build a better future. Some of these initiatives include partnering with impactful non-profit organizations and building products that promote positive change.",0.66
+How did Able support the Parker Institute for Cancer Immunotherapy?,They built a platform to help scientists collaborate and share information in pursuit of curing cancer.,"
+
+Able created a platform for the institute's scientists to collaborate and share information, supporting their goal of making cancer a curable disease.",0.802
+What did Able build for Giving Credit?,A payment system for peer-lenders and a reward mechanism using Giftbit API to encourage participation.,"
+
+Able built a functional lending tool for Giving Credit, which can be integrated with payment platforms like PayPal. They also implemented a reward system using the Giftbit API, allowing for cash rewards.",0.622
+What are Able’s data protection strategies?,"They use AES-256 encryption for data at rest and TLS/SSL for data in transit, with containerized deployments for access control.","
+
+Able uses advanced encryption (AES-256) for data at rest and in transit (TLS/SSL). They also utilize secure storage solutions and containerized deployments with tools like Docker and Kubernetes to ensure data protection.",0.675
+How does Able ensure model transparency?,They use LIME and SHAP to provide model explainability and maintain audit trails for model training and decisions.,"
+
+Able uses techniques like LIME and SHAP to provide insights into model decisions, which helps stakeholders understand how the models make predictions. This promotes transparency and explainability in our AI models.",0.679
+What governance standards does Able follow?,Able complies with GDPR and CCPA and uses MLflow and Kubeflow for model governance.,"
+Able follows GDPR, CCPA, and other relevant standards for regulatory compliance and conducts regular audits to ensure adherence.",0.698
+What is Able’s team culture like?,"Able is a remote-first company that values trust, offers quarterly profit sharing, meeting-free Fridays, and stipends for development.","
+
+Able's team culture is focused on putting people first and driving innovation through the expertise of our team members. We prioritize allowing our team to focus on their strengths and deliver value for our business.",0.673
+Where is Able’s office located?,"Able has an office in Lima, Peru, but operates remotely.","
+
+I'm not sure based on the available information.",0.165
+What perks does Able offer its employees?,"They offer snack boxes, employee development stipends, and profit sharing.","
+
+Able offers its employees the perk of being able to focus on their work and increase their talent density, as well as the opportunity to work with a company that values efficiency and speed to value.",0.329
+What is Able’s mission?,"Able aims to deliver efficient, AI-powered software solutions with world-class talent.","
+
+Able's mission is to leverage technology for positive change and to partner with impactful non-profit organizations to achieve this goal.",0.52
+How does Able help clients save money?,"By optimizing AI tools and workflows, they achieve 30%+ cost savings and faster time to market.","
+
+Able's leading edge methodologies can deliver 30%+ savings, and in some use cases, they can even deliver 2X-3X savings. This allows clients to save money and allocate those resources towards other areas of their business.",0.537
+What makes Able unique?,"Their proprietary AI methodologies, agentic workflows, and world-class team create value across the software lifecycle.","
+
+Able's unique approach to go-to-market strategies and its ability to help early founder teams move quickly and with high quality sets it apart from other companies. Additionally, its emphasis on teamwork and collaboration has shown that there are no limits to what can be achieved.",0.523
