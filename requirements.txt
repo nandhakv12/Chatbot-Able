@@ -17,6 +17,6 @@ spacy
 nltk
 thinc==8.1.12
 pinecone-plugin-inference
-
+gunicorn
 
 -e .
