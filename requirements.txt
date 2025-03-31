@@ -16,6 +16,7 @@ sentence-transformers
 spacy
 python-3.10.12
 nltk
-
+spacy==3.6.1
+thinc==8.1.12
 
 -e .
