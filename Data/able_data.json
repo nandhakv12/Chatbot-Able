@@ -146,7 +146,1517 @@
       "copyright": "© 2025"
     }
   }
+},
+ {
+  "url": "https://www.linkedin.com/company/able-co",
+  "text": "Overview | Building Technology with a People-First Approach\nAble was founded in 2013 on the premise that entrepreneurs and philanthropists needed a better service model for building technology.\n\nToday we're 80+ exceptionally talented builders throughout North and Latin America. We've developed our own products, and we've launched, innovated and scaled projects for our partners.\n\nWe believe talent and teams come first. Our environment allows us to work on diverse, high-impact products and technology in a truly people-oriented culture. We value outcomes over effort, and strive to get better every day.\n\nOur unique model allows us to field a focused, dedicated team of designers, engineers, and all-around company builders. Each team is outcome-oriented, designed to seamlessly integrate with our partners, and ready to adapt as their business evolves.\n\nLet’s build together."
+ },
+{
+  "url": "https://able.co/about/",
+  "text": "Remote Workplace | Empowering Remote-First Culture\nRemote first: We have always been and will always be a remote first company. With an office in Lima, Peru, we welcome those that want to visit but expect our team members to work where they are most comfortable and productive."
+},
+{
+  "url": "https://www.linkedin.com/posts/able-co_if-youre-stuck-on-where-to-begin-with-ai-activity-7311054454898704384-01z1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADa_5TsBuJvaMf69DUHI7oljwUiqVayai8g",
+  "text": "AI Adoption Insight | Supporting Employees\nIf you’re stuck on where to begin with AI in your organization, here’s one thing to consider:\n📣 Employees want more AI support and training from their employers. 📣\nAccording to a recent study by McKinsey, nearly half of surveyed employees say that formal gen AI training from their employers is the best way to boost AI adoption at their company."
+},
+{
+  "url": "https://www.linkedin.com/posts/andymckinney_from-axios-ai-is-tearing-apart-companies-activity-7307885814552633344-_QCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADa_5TsBuJvaMf69DUHI7oljwUiqVayai8g",
+  "text": "AI Alignment Strategy | Bridging the Gap Between Employees and Executives\nFrom Axios: 'AI is tearing apart companies,' citing significant differences between C-suite and employee perceptions around AI.\nNotably, execs and employees can't even agree about whether their company has an AI strategy: 89% of execs vs 57% of employees.\nAt Able our AI strategy is evolving fast as gen AI shows new ways to create efficiency in the SDLC.\nThe key for us: alignment throughout our team.\nOur methodologies introduce AI to elevate people, not replace them. We are training all our team members to harness the power of the tech effectively, so we can transfer these practices to our clients.\n\nData from Axios (December 2024):\n- 47% of employees vs 73% of execs say their company’s AI approach is well-controlled.\n- 45% of employees vs 75% of execs believe their company was successful in adopting AI in the past year.\n- 57% of employees vs 89% of execs say their company has an AI strategy.\n- 33% of employees vs 64% of execs believe their company has high AI literacy."
+},
+{
+  "url": "https://www.linkedin.com/posts/able-co_airesearch-aiethics-techleadership-activity-7298099178595856385-razA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADa_5TsBuJvaMf69DUHI7oljwUiqVayai8g",
+  "text": "The Cost of Inaction | Key Risks of Neglecting Responsible AI Practices\nRecent findings reveal a stark reality: 36% of AI researchers warn of catastrophic risks from uncontrolled AI development. For CTOs and technology leaders, this isn't just about avoiding risks—it's about seizing the opportunity to build AI systems that create lasting value while protecting your organization's future.\n\nRisk Areas:\n- Security Vulnerabilities: Fine-tuned LLMs are vulnerable to data extraction; attackers can manipulate systems to perform unauthorized actions.\n- Regulatory & Legal Exposure: Laws like NY AI Bias Law and EU AI Act impose strict requirements for AI systems. Non-compliance can lead to multi-million-dollar penalties.\n- Technical & Organizational Debt: Retrofitting AI responsibility features is 3–4x more expensive than building them in from the start.\n- Erosion of Trust: AI failures damage stakeholder confidence and reputation. Detection of AI-related incidents takes significantly longer.\n- Loss of Market Position: Companies with strong AI governance gain a competitive edge.\n\n#AIResearch #AIEthics #TechLeadership #AIFuture #TechInnovation #AIForGood #CTOInsights"
+},
+{
+  "url": "https://www.linkedin.com/posts/able-co_aitechnology-businessgrowth-innovationunlocked-activity-7243952282973696000-kg0m?utm_source=share&utm_medium=member_desktop&rcm=ACoAADa_5TsBuJvaMf69DUHI7oljwUiqVayai8g",
+  "text": "Taking AI from a buzzword to a growth engine requires more than just tech. It's about a tailor-made strategy that fuels your business goals. Here's how we make AI work harder for you:\n\n🔍 Deep Dive & Diagnose: Understand your unique needs.\n🛠️ Custom Tailored Solutions: AI that fits like a glove.\n🧩 Integration & Optimization: Seamless adoption, continuous improvement.\n\nWith Able, AI isn't just a tool; it's your competitive edge, fine-tuned to drive tangible results and ROI. Let's build together.\n\n#AITechnology #BusinessGrowth #InnovationUnlocked #HowWeBuild"
+},
+{
+  "url": "https://goodpods.com/podcasts/tgim-by-able-632289",
+  "title": "#TGIM by Able",
+  "data": {
+    "total_episodes": 4,
+    "topics": [
+      "Venture Capital",
+      "Entrepreneurship",
+      "Private Equity",
+      "Startups",
+      "Podcasts",
+      "Technology",
+      "Business Growth",
+      "Building",
+      "Business",
+      "Innovation",
+      "Strategy",
+      "Machine Learning"
+    ],
+    "most_popular_episode": "Navigating AI in Startups: What VC and PE Firms Look For",
+    "average_episode_length_minutes": 11,
+    "release_frequency": "Every 12 days, 16 hours",
+    "first_episode_release_date": "2024-07-02"
+  },
+  "description": "#TGIM by Able is a podcast that discusses venture capital, AI in startups, entrepreneurship, business innovation and technology. It currently has 4 episodes, with an average duration of 11 minutes, released approximately every 12 days. The most popular episode is 'Navigating AI in Startups: What VC and PE Firms Look For'."
+},
+
+{
+  "title": "Navigating AI in Startups: What VC and PE Firms Look For",
+  "date": "July 29, 2024",
+  "duration": "06:10",
+  "episode": "E4",
+  "participants": ["Larissa", "Arnon Bruno"],
+  "transcript": [
+    {
+      "speaker": "Larissa",
+      "time": "00:01",
+      "text": "Welcome to today's episode of TGIM. Thank goodness it's Monday, Able's podcast that celebrates the joy of work, innovation, and the exciting projects that drive us forward. And today, we're talking to Arnon Bruno again, and we introduced him last time on our last episode. And I won't go into his very extensive background again. But essentially, he's an expert in AI with over a decade of experience."
+    },
+    {
+      "speaker": "Larissa",
+      "time": "00:23",
+      "text": "He's getting his PhD in artificial intelligence, and he is also our principal AI engineer here at Able. Thanks for joining us again, Arnon. So I just wanna dive right in. So you've been central to our partner AI conversations, and we work a lot with venture capital and private equity firms. So what I wanna know is what have you learned from what PE or VC firms want to see when it comes to startups incorporating AI into their business models?"
+    },
+    {
+      "speaker": "Arnon",
+      "time": "00:51",
+      "text": "Yeah. That's a very good question. I think what I've seen so far is, like, PE & VC firms there are looking for a very clear value proposition that AI brings to business, like showing how it enhances efficiency, decision making, or customer experience. And something that I also notice is that they're looking to understand exactly how scalable AI can be. So how scalable the solutions can be in order for their businesses to also grow with the solution in the future."
+    },
+    {
+      "speaker": "Arnon",
+      "time": "01:23",
+      "text": "Right? So the solutions that they want to develop with AI need to be scalable enough to grow with the business. And also having a strong technical team capable of handling AI development and, deployment is crucial. So I I think they're also looking for people that can work with, those AI systems in a way that it could potentially derisk any scale up issue that might come up in the future. So those are some of the things that I have seen so far."
+    },
+    {
+      "speaker": "Larissa",
+      "time": "01:51",
+      "text": "Do a lot of these firms actually know the the potential of AI, or is it just a buzzword that they wanna jump on board with?"
+    },
+    {
+      "speaker": "Arnon",
+      "time": "01:58",
+      "text": "Yeah. I mean, not all of the startups need to incorporate AI to their business models. Right?"
+    },
+    {
+      "speaker": "Arnon",
+      "time": "02:05",
+      "text": "Yeah. Yeah. I mean, that's essentially I know that most of the companies these days that they're hearing about AI, they fear that they will be left behind. So they will miss this big opportunity, which is leveraging AI for their specific business model. But as I said, not all tech startups or startups as a whole need to incorporate AI into the business model."
+    },
+    {
+      "speaker": "Arnon",
+      "time": "02:27",
+      "text": "Right? So while AI can provide significant advantages, its necessity depends on, for example, the nature of the business and the problem it aims to solve. And I think startups should assess whether AI genuinely adds value to their core offering and aligns with their strategic goals. Because for some, traditional methods might be more efficient in terms of cost, also more effective. So incorporating AI just for the sake of it can lead to, like, unnecessary complexity and expenses without meaningful benefits, especially if you don't have, like, a lot of data to feed your AI systems."
+    },
+    {
+      "speaker": "Larissa",
+      "time": "03:09",
+      "text": "Do companies come to Abel without AI and then want to incorporate it? How how's that process work?"
+    },
+    {
+      "speaker": "Arnon",
+      "time": "03:15",
+      "text": "Yeah. I mean, we have seen a lot of partners coming to us asking on how they could leverage AI to the benefit of their own businesses, and this is also something that we could do. So we also work on this ideation phase, so by combining their ideas with all of the things that we could do in terms of AI. So we also try and incorporate this AI consultancy service while interacting with partners and then use that to maybe provide them a very easy to understand and a very initial idea of how this AI system or how this AI idea could incorporate to their application. Right?"
+    },
+    {
+      "speaker": "Arnon",
+      "time": "03:54",
+      "text": "And what we have seen so far is that most of them usually come to us with some data, and then we are capable of generating a very quick prototype and show them how this would work. But even for those partners that do not necessarily have data, we are capable of, you know, at least creating synthetic data to have a proof of concept and show them how this would work in the future in a way that we could develop something that is future proof. So it's prepared for whenever they have a lot of data, they probably will have this AI system working and ready to perform what they're intended to do."
+    },
+    {
+      "speaker": "Larissa",
+      "time": "04:32",
+      "text": "Oh, that's really cool. So then just in general, what are we building at Able whether or not this with AI or not, but or how are we incorporating AI?"
+    },
+    {
+      "speaker": "Arnon",
+      "time": "04:41",
+      "text": "Yeah. Let let me focus more on the AI aspect of it. So we are building a lot of things for our partners and also internally. So internally, we're working with agents and generative AI to build chatbots. So we have couple of different strategies where we have seen that AI can help us be more efficient in terms of understanding documents, interacting with people, and eventually also helping in engineering."
+    },
+    {
+      "speaker": "Arnon",
+      "time": "05:08",
+      "text": "So we have seen a lot of benefit of using AI in our engineering teams by helping them to create automatic tasks, to increase the overall quality of our systems, to help us better understand the context of the code that we are building. So this is one of the ways that we are currently working with AI. But then I would also say that there's this component about AgenTek AI, where we have seen that there is a lot of possibility for us to use this great capability of AI to analyze massive amounts of data and combine this with our expertise. So combine the attention to details of AI and human expertise to create really good things that adds a lot of value to our partners. Partners."
+    },
+    {
+      "speaker": "Arnon",
+      "time": "05:53",
+      "text": "So these are some of the things that we have been building in terms of AI here at Able, and there's a lot more to come."
+    },
+    {
+      "speaker": "Larissa",
+      "time": "06:00",
+      "text": "Nice. I'm excited for that. Well, thank you, Arnon. This is amazing and very insightful. I learned a lot."
+    },
+    {
+      "speaker": "Arnon",
+      "time": "06:07",
+      "text": "Thanks a lot, Theresa."
+    }
+  ]
+},
+{
+  "title": "#TGIM July Highlights",
+  "publisher": "Able",
+  "followers": 9966,
+  "date": "August 12, 2024",
+  "sections": [
+    {
+      "title": "MESSAGE FROM OUR CEO",
+      "author": "Andy McKinney, CEO",
+      "content": "Welcome to #TGIM!\n\nAt Able, we are all Builders. The builder spirit is what unites us and what drives us forward, together. It's the drive to create new things, and to do things that have never been done before, that brought me to Able, and keep me inspired to be here.\n\nIn this newsletter and subsequent editions, we will celebrate the achievements of our crew of 80+ builders in 12 countries. We’ll shine a light on the work that we’re doing with our partners, to build software products that build their businesses. And we’ll spotlight the individual builders themselves, to applaud the talents, ambitions, and creativity within Able and across all our partnerships.\n\nI’m proud to launch #TGIM, and grateful to the team that has made this possible. Welcome to #TGIM, a unique compendium of content that reflects the uniqueness of the people who build Able every week. Enjoy!"
+    },
+    {
+      "title": "TECHNOLOGY FOR GOOD",
+      "subtitle": "Transforming Legal Volunteering with We The Action and Able",
+      "content": {
+        "intro": "At Able, we pride ourselves on creating innovative solutions that drive meaningful change. One of our standout projects is our collaboration with We The Action, a pioneering technology platform that connects legal volunteers with nonprofits in need of legal support.",
+        "subsections": [
+          {
+            "title": "A Catalyst for Social Justice",
+            "text": "Since its inception, We The Action has been a catalyst for social justice, pairing skilled lawyers with nonprofits to tackle critical issues. Over time, the need for rapid and scalable legal assistance has grown due to evolving societal challenges. In response, Able partnered with We The Action to transform its platform, enhancing scalability, network effects, and speed of mobilization."
+          },
+          {
+            "title": "Enhancing the Platform for Greater Impact",
+            "text": "Able played a crucial role in redesigning the platform, streamlining controls, and organizing project management. Key improvements included:",
+            "highlights": [
+              "New Functionalities: Enabled nonprofits to mobilize distributed networks of legal volunteers efficiently.",
+              "Task-Based Groups: Created regional and task-based groups, maximizing each lawyer’s expertise and availability.",
+              "Goal-Oriented Task Forces: Established goal-oriented task forces to ensure focused and effective volunteer engagement."
+            ]
+          },
+          {
+            "title": "Impact",
+            "text": "The impact has been profound. Hundreds of thousands of hours of pro bono legal work have been contributed, addressing vital causes such as:",
+            "causes": [
+              "Protecting voting rights",
+              "Fighting for racial equality",
+              "Supporting immigrant communities"
+            ]
+          },
+          {
+            "title": "Recognition",
+            "text": "We The Action was named a “World-Changing Idea” by Fast Company, highlighting our collaborative efforts."
+          }
+        ]
+      }
+    },
+    {
+      "title": "CONFERENCE HIGHLIGHTS",
+      "subtitle": "AI Insights at Toronto Collision Conference",
+      "author": "Chad Felton",
+      "content": {
+        "intro": "Last month, our Director of Partnerships, Chad Felton was in 🇨🇦 for Collision Conf (now rebranded as Web Summit). North America’s fastest-growing technology conference has over 40,000 technology enthusiasts in attendance. The threats, opportunities, and hot takes of AI were front and center with some 🤯 speakers; here are four 🌶 highlights from the big stage:",
+        "highlights": [
+          "🧙♂️ Geoffrey Hinton shared his view on the extensive threats posed to humanity and society and calls for governments to mandate more experimentation.",
+          "🎾 Maria Sharapova shared insights on how AI is reshaping the sport's challenge systems and enhancing fan engagement.",
+          "✈ Marnie Wilking, Booking.com’s CISO, says scams have increased by 500-900% in the past 18 months, placing some blame on ChatGPT.",
+          "🤖 Vinod Khosla criticized FTC chair Lina Khan and the DOJ for their investigations of Microsoft and Nvidia."
+        ],
+        "note": "TikTok's bidder, Boeing's whistleblower and OnlyFans CEO also took the stage, see what you missed."
+      }
+    },
+    {
+      "title": "CELEBRATING WORK",
+      "subtitle": "Founders Interest Group: Building Companies & Building Communities",
+      "author": "Larissa Shah",
+      "content": "At Able, our Founders Interest Group brings seasoned entrepreneurs and aspiring innovators together every month to share their journeys. Last month, Larissa Shah, our new Community Engagement Manager, shared her experience of building an international wine distribution company, highlighting the importance of building lasting relationships and cultural awareness in business.",
+      "link": "Read more here."
+    },
+    {
+      "title": "BITS AND BYTES",
+      "subtitle": "Thank Goodness it’s Monday",
+      "content": {
+        "intro": "Mondays are fun! Here’s some of the cool and creative stuff our team shares on Slack:",
+        "items": [
+          "💾 A guy who restores old PCs (think Pentiums, 3dfx Voodoo, ZIP drive, CRTs, 56k modems, Windows 95, etc.) and then plays old games on them!",
+          "📃 Slack “lists” - we’re not sure how new of a feature this is but we just discovered it.",
+          "🤖 Our Principal AI Engineer, Arnon Bruno Ventrilho dos Santos, shared the surreal world of AI with “This person does not exist”."
+        ]
+      }
+    },
+    {
+      "title": "Stay Connected",
+      "author": "Larissa Shah, Community Engagement Manager",
+      "content": "Over the next few editions, expect to learn more about our work, hear from our discipline leaders, and more.\n\nStay connected with us on LinkedIn for more updates and exclusive content. If you know someone who may want to subscribe, please share this newsletter.\n\nWe’d love to hear your feedback—reply to this email with any thoughts or suggestions.\n\nLet’s build together."
+    }
+  ]
 }
+,
+{
+  "title": "Unlocking the Full Potential of Generative AI: How Chain of Thought and Tree of Thought are Revolutionizing Product Development at Able",
+  "publisher": "Able",
+  "followers": 9966,
+  "date": "August 17, 2024",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "In the rapidly evolving field of generative AI, two groundbreaking techniques have recently emerged: Chain of Thought (CoT) and Tree of Thought (ToT). These approaches are transforming how we interact with large language models (LLMs), enhancing reasoning and improving the quality of our deliverables."
+    },
+    {
+      "title": "Chain of Thought (CoT)",
+      "content": {
+        "description": "Introduced by Google researchers in 2022, CoT guides LLMs through a logical sequence of reasoning steps to solve problems. By demonstrating the thought process, CoT improves the accuracy and coherence of generated responses.",
+        "source": "https://arxiv.org/abs/2201.11903"
+      }
+    },
+    {
+      "title": "Tree of Thought (ToT)",
+      "content": {
+        "description": "Building on CoT, ToT was introduced in 2023 by Google DeepMind and Princeton University researchers. ToT enables LLMs to explore multiple reasoning paths simultaneously, self-evaluate progress, and make deliberate decisions, making it particularly effective for complex problem-solving and strategic planning tasks.",
+        "source": "https://arxiv.org/abs/2305.10601"
+      }
+    },
+    {
+      "title": "How We’re Using It",
+      "content": "At Able, we’re harnessing CoT and ToT to create highly capable multi-agent AI workflows applied throughout the product development lifecycle. By incorporating these techniques, our AI agents can:",
+      "benefits": [
+        "Break down complex queries into manageable steps",
+        "Explore diverse solution paths",
+        "Evaluate and select the most promising approach",
+        "Generate accurate, contextually relevant responses"
+      ]
+    },
+    {
+      "title": "Quote from Arnon Bruno Ventrilho dos Santos",
+      "role": "Principal AI Engineer at Able",
+      "quote": "These techniques have allowed us to break down complex challenges into manageable steps and explore multiple reasoning paths simultaneously. By integrating CoT and ToT into our AI workflows, we're not just enhancing efficiency—we're capable of transforming how our partners achieve their goals. The future of AI-driven product development is here, and we're already making it happen."
+    },
+    {
+      "title": "Conclusion",
+      "content": "The integration of CoT and ToT allows Able’s agents to tackle a wide range of tasks with unprecedented efficiency and effectiveness. These techniques are crucial in unlocking the full potential of generative AI, revolutionizing the services we provide to our partners."
+    }
+  ]
+}
+,
+{
+  "title": "Revolutionizing Product Development with AI: Introducing Able’s AI Product Accelerant",
+  "publisher": "Able",
+  "followers": 9966,
+  "date": "August 26, 2024",
+  "content": "At Able, we’re pushing the boundaries of product incubation by embracing the transformative potential of AI. Our approach to developing and launching products has undergone a radical shift, moving away from the traditional, resource-heavy methods to an AI-driven process that accelerates growth and innovation like never before.\n\nBefore AI, product incubation was a lengthy, resource-heavy process. Extensive market research, prolonged development cycles, and multiple rounds of iteration were the norm. By the time a product was ready for market, the landscape had often shifted, making it difficult to achieve a strong ROI.\n\nToday, AI enables us to incubate products with unprecedented speed and precision. By leveraging AI-driven insights, we forecast market trends, simulate product performance, and iterate rapidly—bringing products to market in a fraction of the time.\n\nWe’re thrilled to announce the launch of Able’s AI Product Accelerant, a cutting-edge approach that reduces development timelines and costs while enhancing product success. By integrating advanced AI tools and methodologies, we’ve developed a proprietary process that shortens the time it takes to bring a Minimum Testable Product (MTP) to market from months to just weeks.\n\nAt Able, we’ve coined the term “MTP” to reflect our focus on creating a product version that is not only viable but immediately testable with real users. This approach allows us to rapidly validate concepts and ensure that the products we develop are perfectly aligned with market needs, saving you both time and money.\n\nKey benefits of the AI Product Accelerant include:\n• Speed: Reduce your time-to-market by up to 75%.\n• Efficiency: Streamlined workflows and AI-driven insights optimize your team’s efforts.\n• Learning: Build the right product for your customer base from the start.\n• Quality: Launch quickly while meeting the highest quality and market relevance.\n• Support: Our expert team will guide you every step of the way.\n\nOne of our valued partners entrusted us with the challenge of applying our new AI-driven approach to their product development process. Historically, they required 4 months and a cross-functional team to develop a minimal viable product (MVP). By embracing our innovative AI Product Accelerant, we reduced that timeline to just 4 weeks—delivering a Minimum Testable Product (MTP) at a fraction of the usual investment. This early success demonstrates the powerful potential of AI-driven product development, enabling faster market validation and lower costs.\n\nAt Able, we’re committed to staying ahead of the curve by integrating AI into every stage of the product development lifecycle—a move we see not just as a trend, but as the future of innovation. Our AI Product Accelerant exemplifies this commitment, blending human expertise with advanced AI capabilities to revolutionize product development. As we continuously refine our processes and embrace new technologies, we’re confident that the outcomes will only improve, helping our clients achieve their goals more quickly and efficiently. The best is yet to come, and we’re excited to build the future together.\n\nIf you’re interested in learning about our AI Product Accelerant Offering and discovering how Able can help your company innovate and grow with speed and efficiency — schedule a call here.\n\nLet’s build together!"
+},
+{
+  "title": "Transform your vision into reality in just 4 weeks",
+  "publisher": "Able",
+  "date": "2024",
+  "content": "Are you looking to fast-track your product ideas without the lengthy and costly development cycles? Able’s AI Product Accelerant is your solution. Our AI-powered rapid prototyping service accelerates your product vision into a Minimum Testable Product (MTP) in just 4 weeks. Skip the months of waiting and get to market faster with confidence.\n\nGet a free consultation.\n\nAt Able, we’re pushing the boundaries of product incubation by embracing the transformative potential of AI. Our approach to developing and launching products has undergone a radical shift, moving away from the traditional, resource-heavy methods to an AI-driven process that accelerates growth and innovation like never before.\n\nProduct incubation was a lengthy, resource-heavy process. Extensive market research, prolonged development cycles, and multiple rounds of iteration were the norm. By the time a product was ready for market, the landscape had often shifted, making it difficult to achieve a strong ROI.\n\nToday, AI enables us to incubate products with unprecedented speed and precision. By leveraging AI-driven insights, we forecast market trends, simulate product performance, and iterate rapidly—bringing products to market in a fraction of the time.\n\n4 month development timeline\n\nToday, AI enables us to incubate products with unprecedented speed and precision. By leveraging AI-driven insights, we forecast market trends, simulate product performance, and iterate rapidly—bringing products to market in a fraction of the time.\n\n2 month development timeline\n\nAI has dramatically reduced the time-to-market. What once took years can now be achieved in just months or even weeks. This swift timeline allows our partners to seize market opportunities faster and maintain a competitive edge.\n\nThe return on investment for AI-powered product incubation is clear. Unlike traditional methods that required years to see significant returns, AI enables us to deliver high-impact results in just a few months. Our AI Accelerant process shortens the time it takes to get a Minimum Testable Product (MTP) in the market with real users, from months to weeks. This proprietary process reduces the cost and increases efficiency dramatically.\n\nWhat you get:\n• Minimum Testable Product – A fully functional prototype ready for market testing.\n• User Feedback Reports – Insights to guide your decision-making process.\n• Ownership – Full access to all design documents, wireframes, and code repositories.\n\nWhy choose Able:\n• Proven Expertise – With over a decade of experience, we specialize in 0-1 product development.\n• AI-Enhanced Efficiency – Our AI tools and agentic AI teams streamline the development process, saving you time and resources.\n• Customer-Centric Design – Incorporating human-centered design principles, we ensure your product resonates with real users.\n\nContact us to get started."
+},
+{
+  "faqs": [
+    {
+      "question": "Who are your typical clients?",
+      "answer": "We work with growth-stage VC-backed startups, mid-market companies, and partners in the private equity and venture capital sectors, focusing on industries like healthcare and technology."
+    },
+    {
+      "question": "What industries do you specialize in?",
+      "answer": "We have extensive experience in the healthcare and technology sectors but also work with a wide range of industries, including finance, education, and retail."
+    },
+    {
+      "question": "Do you offer ongoing support after the project is completed?",
+      "answer": "Yes, we provide post-launch support and maintenance to ensure that your solution continues to perform optimally and evolves with your needs."
+    },
+    {
+      "question": "Who are some of your notable partners?",
+      "answer": "We have worked with companies like Redesign Health and Caring.com, helping them achieve significant growth through innovative technology solutions."
+    },
+    {
+      "question": "Can I see examples of past work?",
+      "answer": "Absolutely! Please visit our case studies section to explore how we’ve helped other companies like We The Action achieve their goals."
+    },
+    {
+      "question": "What if I’m not sure what I need?",
+      "answer": "No problem! Our experts will guide you through the process, helping to identify your pain points and recommend the best course of action."
+    }
+  ]
+},
+{
+  "title": "The Role of Generative AI in Modern Product Development",
+  "publisher": "Able",
+  "followers": 9966,
+  "date": "December 9, 2024",
+  "content": "Generative AI has emerged as a game-changer in the realm of software development, offering innovative ways to design, prototype, and accelerate product lifecycles. For companies aiming to remain competitive, integrating AI into the product roadmap is no longer a luxury—it’s essential for achieving operational efficiency and staying ahead of the curve.\n\nHow Generative AI is Transforming Product Design\nGenerative AI uses advanced algorithms to generate new content and ideas based on input data, making it an indispensable tool for modern product development. By automating repetitive tasks and streamlining workflows, AI enables teams to explore countless design iterations quickly, saving time and resources.\n\nCompanies like NVIDIA and Adobe are already leveraging generative AI to transform their design processes. For instance, NVIDIA's Picasso service enables the creation of AI-powered image, video, and 3D applications, enhancing productivity in design and digital simulation. Adobe's Firefly integrates generative AI into tools like Photoshop and Illustrator, allowing for rapid prototyping and design iterations. \n\nAccording to Gartner, generative AI can accelerate product development, enhance customer experience, and improve employee productivity, with the specifics depending on the use case. \n\nReal-World Applications of AI in Software Development\nRapid Prototyping: AI can assist teams in creating Minimum Viable Products (MVPs) more efficiently by generating user interfaces, suggesting features, and even writing initial code. Tools like OpenAI’s Codex reduce time spent on repetitive coding tasks, allowing engineers to focus on innovation.\nDesign Automation: Generative AI automates manual design tasks, such as creating user flows and design mockups. This approach optimizes processes without requiring additional resources, enabling companies to do more with less.\nData-Driven Insights: By analyzing market trends and user behavior, generative AI provides actionable insights that help teams prioritize features and ensure products align with market needs.\n\nContact us for custom solutions\n\nAble’s Approach to Integrating AI in Software Solutions\nAt Able, we believe that AI should amplify human potential, not replace it. Our \"humans in the driver’s seat\" philosophy ensures that AI works alongside people, empowering teams to focus on strategic and creative tasks while AI handles the rest. Here’s how we deliver efficiency through generative AI:\n\nTailored AI Solutions: We design custom AI capabilities aligned with each client’s unique goals, ensuring scalability and efficiency.\nCollaborative Innovation: Our engineers and AI specialists work closely with clients to integrate AI into workflows seamlessly, maintaining control and creativity.\nContinuous Optimization: We don’t stop at implementation. Our solutions evolve with your business, ensuring lasting efficiency and adaptability.\n\nWhy Generative AI is Essential for Product Development\nGenerative AI offers unparalleled speed, adaptability, and efficiency. By automating repetitive tasks and delivering actionable insights, companies can streamline operations and focus on innovation instead of operational bottlenecks.\n\nAccording to McKinsey, product managers using generative AI have achieved a 5% acceleration in time-to-market and a 40% boost in productivity, making AI a critical differentiator for mid-market and private equity-backed firms navigating complex operational challenges.\n\nHow Able Can Accelerate Your Product Development\nAt Able, we specialize in leveraging generative AI to transform software development. Whether you’re looking to prototype faster, optimize workflows, or scale your products with AI capabilities, our team has the expertise to deliver measurable results.\n\n\n\nReady to transform your product development with AI?\nSchedule a free consultation with Able to explore how our AI-driven solutions can streamline your workflows, enhance efficiency, and deliver measurable results. Contact us."
+},
+{
+  "title": "Global AI Market in Software Development",
+  "publisher": "Able",
+  "followers": 9966,
+  "post_date": "2mo",
+  "content": "The global AI market in software development is projected to reach $266 billion by 2025—a 44.57% increase in just one year. For mid-market CTOs, this underscores both the transformative potential of AI and the urgency to adopt it.\n\nAI is revolutionizing the Software Development Lifecycle (SDLC), enabling faster, more efficient, and higher-quality outcomes. Staying ahead means acting now.\n\nBut where do you start? How do you adopt AI in a way that aligns with your business needs?\n\n💡 We’ve put together a practical, actionable guide to help CTOs identify opportunities, overcome challenges, and implement AI into their SDLC. From small proof-of-concept projects to full-scale adoption, this roadmap empowers teams to stay ahead in the competitive tech landscape.\n\n👉Read our blog about demystifying AI in the SDLC: https://lnkd.in/gZR_qBiH",
+  "image_text": {
+    "header": "Global AI Market",
+    "subheader": "SOFTWARE DEVELOPMENT",
+    "growth": "44.57% Growth 2024–2025",
+    "bar_chart": {
+      "quarters": ["Q3 2024", "Q4 2024", "Q1 2025"],
+      "values": ["$184B", "Approx.", "Approx.", "$266B"]
+    }
+  }
+},
+{
+  "employees": {
+    "where_they_live": {
+      "United States": 105,
+      "California, United States": 34,
+      "Peru": 16,
+      "New York City Metropolitan Area": 16,
+      "Los Angeles Metropolitan Area": 14,
+      "San Francisco Bay Area": 14,
+      "Brazil": 13,
+      "New York, United States": 12,
+      "Texas, United States": 9,
+      "São Paulo, Brazil": 9,
+      "Brooklyn, NY": 7,
+      "Canada": 6,
+      "Lima Metropolitan Area": 6,
+      "Florida, United States": 5,
+      "Virginia, United States": 5
+    },
+    "where_they_studied": {
+      "Universidad Peruana de Ciencias Aplicadas": 4,
+      "USP - Universidade de São Paulo": 2,
+      "Universidad Nacional José Faustino Sánchez Carrión": 2,
+      "Pontificia Universidad Católica del Perú": 2,
+      "Universidad Nacional Mayor de San Marcos": 2,
+      "CENTRUM PUCP": 2,
+      "North Dakota State University": 2,
+      "Springboard": 1,
+      "Colegio Alemán - Deutsche Schule Barranquilla": 1,
+      "Universidad de La Sabana": 1,
+      "Federal University of Rio Grande do Sul": 1,
+      "Cleveland State University": 1,
+      "Centro Universitário Senac": 1,
+      "Kilgore College": 1,
+      "Ifes - Instituto Federal do Espírito Santo": 1
+    },
+    "what_they_do": {
+      "Engineering": 38,
+      "Operations": 34,
+      "Business Development": 17,
+      "Sales": 10,
+      "Arts and Design": 9,
+      "Community and Social Services": 9,
+      "Information Technology": 8,
+      "Education": 8,
+      "Healthcare Services": 6,
+      "Human Resources": 6,
+      "Program and Project Management": 6,
+      "Customer Success and Support": 6,
+      "Administrative": 5,
+      "Entrepreneurship": 5,
+      "Product Management": 4
+    },
+    "skills": {
+      "JavaScript": 25,
+      "React.js": 22,
+      "Node.js": 18,
+      "Scrum": 18,
+      "Agile Methodologies": 17,
+      "Cascading Style Sheets": 17,
+      "SQL": 17,
+      "Microsoft Office": 16,
+      "MySQL": 16,
+      "Software Development": 16,
+      "Python (Programming Language)": 15,
+      "User Experience (UX)": 14,
+      "Strategic Planning": 14,
+      "Git": 14,
+      "Business Strategy": 11
+    },
+    "fields_of_study": {
+      "Computer Science": 13,
+      "Computational Science": 9,
+      "Business Administration and Management, General": 7,
+      "Information Technology": 5,
+      "Business/Commerce, General": 5,
+      "Computer Software Engineering": 4,
+      "Finance, General": 4,
+      "Design and Visual Communications, General": 3,
+      "Computer and Information Sciences and Support Services, Other": 2,
+      "Informatics": 2,
+      "Computer Programming": 2,
+      "Education": 2,
+      "Electrical and Electronics Engineering": 2,
+      "Economics": 2,
+      "Human Resources Management/Personnel Administration, General": 2
+    }
+  }
+},
+{
+  "post": {
+    "source": "Able",
+    "context": "Dreamforce Announcement Reaction",
+    "content": "We're inspired by the announcements at Dreamforce this week. Clara Shih from Salesforce AI highlights the power of autonomous agents to create value for their customers. At Able, we’re already seeing exciting results as we test and refine agentic AI in our software development workflows. We’re confident that agents will soon play a central role in how we build software—driving efficiency, automating tasks, and delivering smarter solutions for our partners.\n\nWith trust and security at the core, we’re shaping the future of software development with AI."
+  }
+},
+{
+  "post": {
+    "author": "Kyle Luther Anderson",
+    "title": "Product & Design Leader | De-Risking Software Businesses",
+    "posted": "7mo",
+    "content": "Able is at the Farm Progress Show in Boone, Iowa today! 🌞 🌽\n\nWe're talking with #agtech companies about software engineering, #AI enablement, digital product strategies, and bringing the right talent and tech to build the future of farming. Hit me up if you're here and you'd like to chat!\n\n#fps24",
+    "additional_text": "🌽🚜 Our team is out in Boone, Iowa, at the Farm Progress Show today, connecting with hashtag#AgTech innovators about how software engineering, hashtag#AI enablement, and digital product strategies can shape the future of farming. If you’re here and want to discuss bringing the right talent and technology to your agtech ventures, reach out! Let’s build the future of farming together. 🌾"
+  }
+},
+{
+  "post": {
+    "title": "Meet Dana Castner, a Builder at Heart: Designing Impact Beyond the Office",
+    "content": "At Able, we’re proud to highlight our incredible team members, like Dana, our Senior Product Designer, whose work embodies what it means to be a builder at heart. Dana’s talent and dedication extend beyond product design at Able—she’s also the founder of Choice Tracker (https://choicetracker.org/), an innovative platform that empowers voters by breaking down legislation and providing insights into candidates’ stances on reproductive rights. 🗳️",
+    "section_1": "⚙️ Technology Meets Advocacy\nThrough automation, Choice Tracker was able to expand from 2 to 10 states in just six months and is now tracking over 2,350 state legislators and candidates. But as she reflected in a recent post, it wasn’t just automation that drove success—it was a team of over 40 volunteers working together to craft accessible legislative content. Choice Tracker is now a vital resource for voters across Arizona, Florida, Georgia, Kansas, Michigan, New Hampshire, North Carolina, Pennsylvania, Texas, and Virginia, helping them elect pro-choice legislators aligned with their values.",
+    "section_2": "🛠️ Dana’s Impact at Able\nDana’s expertise doesn’t stop there. Recently, she played a pivotal role in designing the first version of an internal tool for Harmonic Health a company revolutionizing dementia care. This tool equips clinicians to deliver high-quality care to patients and caregivers through streamlined workflows and data integration. Her work ensures that technology serves as a meaningful partner in healthcare, improving lives at every touchpoint.",
+    "closing": "At Able, we are driven by people like Dana—innovators who harness technology and design to drive positive change both inside and outside the workplace. Her contributions demonstrate the power of combining automation, creativity, and teamwork to make a lasting impact."
+  }
+},
+{
+  "post": {
+    "title": "9 incredible years with Able!",
+    "content": "Thank you Dante Cavero— We’re so grateful to have you as part of the team. Your dedication, expertise, and passion for building innovative solutions have been a driving force behind our growth and success. Here’s to many more years of creating amazing things together! 🚀"
+  }
+},
+{
+  "post": {
+    "title": "Please join us in welcoming Steven Michael Staley as our new Director of Business Development at Able!",
+    "content": "With a wealth of experience driving growth and building strong client partnerships, Steven is ready to take us to new heights. His passion for innovation and leadership aligns perfectly with our mission to deliver impactful, AI-powered solutions.\n\nWe’re thrilled to have Steven on board and look forward to achieving great things together!"
+  }
+},
+{
+  "post": {
+    "title": "🎉 The countdown is on!",
+    "content": "Our team at Able is gearing up for HLTH Inc. 2024 Conference, where we’ll join healthcare’s brightest innovators to explore new ideas, technologies, and partnerships that will shape the future of healthcare.\n\nWe’re eager to connect with industry leaders and explore how AI can enhance healthcare operations and patient outcomes. If you’ll be attending, let’s set up a time to meet!\n\n📅 March 20-23, 2024\n📍 Las Vegas, NV\n\nDrop a comment or message us to schedule a chat!"
+  }
+},
+{
+  "post": {
+    "title": "Our team is continuously striving to be their best! 🎉",
+    "content": "Our Tech Lead, Elvio Cavalcante just earned the AWS Solutions Architect certification, significantly broadening his understanding in critical areas like infrastructure, security, high availability, and designing high-performing architectures.\n\nHuge congrats to Elvio! 👏"
+  }
+},
+{
+  "post": {
+    "title": "We Use AI to Build Software Faster",
+    "intro": "Able’s full stack product teams combine AI technologies with custom workflows, to deliver efficiencies throughout the software development lifecycle.",
+    "quote_1": {
+      "text": "“The speed to value that Able provides is unique. They’ve helped our portfolio companies accelerate beyond expectations.”",
+      "author": "—Brian S, Redesign Health Platform Director"
+    },
+    "section_1": "Our AI-Powered Software Development Practices Create Value for Your Business",
+    "description_1": "We’ve tested hundreds of AI software development tools to create a unique configuration that accelerates software development. We couple this with agentic workflows, to deliver unprecedented speed and efficiency for our clients.",
+    "benefits": [
+      {
+        "title": "Save money",
+        "description": "Our leading edge methodologies deliver 30%+ savings, and in some use cases deliver 2X-3X savings."
+      },
+      {
+        "title": "Reduce time to market",
+        "description": "Push more code faster to create value for your customers."
+      },
+      {
+        "title": "Elevate strategic value",
+        "description": "Allow your team to focus on what humans do best: creative delivery of value for your business."
+      }
+    ],
+    "section_2": "Our work",
+    "section_3": "Able’s Unique Capability",
+    "description_2": "We’ve been building software for twelve years, constantly evolving to deliver leading edge solutions for our clients. AI presents new opportunities to innovate how we build.",
+    "pillars": [
+      {
+        "title": "World class talent",
+        "description": "We are a team of product strategists, designers, engineers and project managers. Our combination of U.S. based and nearshore team members ensures that we maximize cost efficiencies, that we pass onto our clients."
+      },
+      {
+        "title": "Bespoke arsenal of tools",
+        "description": "We’ve tested hundreds of AI development tools so you don’t have to. We layer these with AI agents that we apply based on specific technical and business requirements."
+      },
+      {
+        "title": "Proprietary methodologies",
+        "description": "We have reimagined practices and processes to extract the best of what humans do, coupled with what AI can do. The result is a powerful set of methodologies that we apply in customized frameworks based on your organization’s needs."
+      }
+    ],
+    "quote_2": {
+      "text": "“Able has helped us improve our process, to bring products to market faster and more efficiently. Their ability to increase our talent density and improve how we work has allowed us to focus on what matters most — growing our business.”",
+      "author": "—Blake Clark, CEO"
+    },
+    "partnership": "Able works with Kalkomey",
+    "section_4": "Create efficiency throughout the software development lifecycle",
+    "description_3": "We are leveraging the power of AI to reimagine how we build products and companies. We help our partners identify opportunities, build roadmaps, and create investment plans to drive growth and reduce costs through AI.",
+    "section_5": "Able Innovate effectively and build the right product",
+    "description_4": "Human-centered design with AI has never felt so human. Product strategy is elevated and accelerated.",
+    "belief_statement": "We believe in technology's power to drive positive change for good. It’s a belief that's been with us since our start in 2013 and continues to guide our work today.",
+    "section_6": "Our Success Is Defined by the Success of Our Clients",
+    "call_to_action": "Don’t just take our word for it, read about the value that we create for the companies that trust us with their products.",
+    "section_7": "Sustainable AI Is Responsible AI",
+    "description_5": "AI is evolving fast. It is a powerful capability, but it needs to be carefully managed and applied to ensure positive outcomes, now and in the future. We’ve introduced protocols into our processes to ensure sustainably optimized practices.",
+    "principles": [
+      {
+        "title": "Security",
+        "description": "Safeguard AI systems and data with robust protocols to ensure data privacy and integrity."
+      },
+      {
+        "title": "Scalability",
+        "description": "Adaptable AI solutions are designed to grow seamlessly with your business needs."
+      },
+      {
+        "title": "Outcomes",
+        "description": "Deliver responsible AI that drives sustainable, impactful business results."
+      }
+    ]
+  }
+},
+{
+  "post": {
+    "title": "At Able, we understand the delicate balance mid-market companies face: driving innovation while keeping costs in check.",
+    "content": "AI-driven product development isn’t just a tech trend—it’s the key to accelerating growth *and* optimizing budgets.",
+    "points": [
+      "1️⃣ Leverage AI to streamline processes, making product development more efficient.",
+      "2️⃣ Scalable solutions that grow with your company’s needs.",
+      "3️⃣ Cost-effective engineering by reducing tech debt and operational redundancies."
+    ],
+    "closing": "💡 Innovation doesn’t have to be expensive—let’s talk about how we can help your business innovate smarter and more efficiently."
+  }
+},
+{
+  "post": {
+    "author": "Able",
+    "followers": "9,966 followers",
+    "timestamp": "10mo",
+    "content": "Inspired to have you here Kyle Luther Anderson and excited to continue to build together!",
+    "hashtag": "#AbleCulture",
+    "reshared_post": {
+      "author": "Kyle Luther Anderson",
+      "connection": "3rd+",
+      "title": "Product & Design Leader | De-Risking Software Businesses",
+      "timestamp": "10mo",
+      "content": "It’s been a while since I started my role at Able. I was hired as an Entrepreneur in Residence last fall. I was recently promoted to Director of Product Strategy & Design.\n\nPlease reach out if you're interested in de-risking product ideas, are designing a digital product, or are ready to build your software and AI product and want to bring in expert talent. We work with startups, VCs, venture studios, corporate innovators, and PE companies. Let’s build, together!"
+    }
+  }
+},
+{
+  "post": {
+    "author": "Able",
+    "followers": "9,966 followers",
+    "posted": "6mo",
+    "intro": "💡 Imagine turning hours of tedious work into mere minutes of efficiency.",
+    "quote": {
+      "text": "“At Able, we’re using AI agents to distill information from extensive documents, turning what would take hours of human effort into tasks completed in minutes. It’s about augmenting human capabilities, not replacing them—combining the best of both worlds.”",
+      "author": "Arnon Bruno",
+      "title": "Principal AI Engineer @ Able"
+    },
+    "episode": "#TGIM EP03: Diving into Agentic AI",
+    "reactions": {
+      "likes": 11,
+      "reposts": 1
+    }
+  }
+},
+{
+  "post": {
+    "image_quote": {
+      "text": "In today’s rapidly evolving market, IT spending isn’t just an expense—it’s an investment in value creation.",
+      "author": "Pradeepa Dhanasekar",
+      "title": "Director of Engineering"
+    },
+    "content": "🚀 Enterprise CIOs are shifting priorities, and it’s not just about adopting technology—it’s about leveraging the right technology with expert teams and proven methodologies.\n\nOur Director of Engineering, Pradeepa Dhanasekar, put it best, “In today’s rapidly evolving market, IT spending isn’t just an expense—it’s an investment in value creation. Strategic investments in technology can unlock new efficiencies, streamline operations, and create competitive advantages that drive sustainable growth.”\n\nAt Able, we ensure every IT dollar aligns with your business objectives, turning technology into a catalyst for value creation and long-term success."
+  }
+},
+{
+  "post": {
+    "title": "Top Business Needs Driving IT Spending in 2024",
+    "content": "According to recent data, increasing operational efficiency has become a top priority for enterprise CIOs, which aligns perfectly with what we’re seeing in the market. The focus is moving from pandemic-driven employee productivity and protection to a deeper emphasis on revamping business processes and enhancing efficiency. This shift is crucial, especially as organizations navigate economic challenges and aim to maintain profitability.\n\nAt Able, we understand that adopting new technology is just the beginning. It’s about integrating these technologies seamlessly into your operations to drive real, measurable results. Our expert teams and proprietary frameworks are designed to help you not just implement technology, but to optimize it for maximum impact.\n\nWhether it’s AI-driven solutions, custom technology, or end-to-end workflows, we’re here to ensure your business doesn’t just keep up with the times but stays ahead of the curve.",
+    "graphic_data": {
+      "source": "The 2023 State of the CIO Survey",
+      "data_points": [
+        {
+          "label": "Increasing operational efficiency",
+          "value": "45%"
+        },
+        {
+          "label": "Increasing cybersecurity protections",
+          "value": "44%"
+        },
+        {
+          "label": "Transforming existing business processes",
+          "value": "38%"
+        }
+      ]
+    },
+    "branding": {
+      "company": "Able",
+      "website": "able.co"
+    }
+  }
+},
+{
+  "post": {
+    "title": "Founders & Builders Friday: Meet Samanvay Kasarala, Our Senior Product Designer 🎉",
+    "content": "This week, we’re highlighting the incredible work of Samanvay, whos role as a designer not only elevates our team’s projects but also enriches our approach to balancing UI/UX design and technical feasibility.\n\nAt Work:\n🔧 Project: Samanvay was key to our successful partnership with Baton Health, consistently bringing insightful and meaningful perspectives to the table.\n\n💡 Impact: According to Baton’s CEO: “What sets Sam apart is his deep understanding of creating simple, clean interfaces for complex and nuanced data. His ability to answer technical challenges with design solutions also meant that engineers were able to build more intuitive features without a lot of excess weight. Beyond his skills, Sam’s proactive problem-solving and clear communication made him a joy to work with.”\n\nOutside of Work:\n☕ Hobby/Project: Sam runs a chai shop with his wife, dedicated to representing authentic South Asian culture and cuisine.\n\n🌟 Why It Matters: Sam is on a mission to offer a chai experience far richer and more authentic than what’s commonly found at chain cafes. His passion for his culture is as deep as his dedication to design. Check out Chaiwall.nyc on instagram! https://lnkd.in/dtKhsqBX\n\nJoin us in celebrating the dedication and creativity of our team members. Stay tuned for more stories from our talented makers and builders!",
+    "image": {
+      "name": "Builder Spotlight",
+      "person": "Samanvay Kasarala",
+      "title": "Senior Product Designer",
+      "additional_info": "Owner of Chaiwalla.NYC"
+    }
+  }
+},
+{
+  "post": {
+    "title": "Founders & Builders Friday: Meet Brittney Singleton, our Sr. Visual Designer 🎉",
+    "content": "We’re excited to kick off Founders & Builders Fridays by highlighting the incredible work of Brittney Singleton.\n\n🔧 At Work: Britt is integral to creating user-centric experiences for our partners. Her eye for detail and design helps create visually stunning and intuitive user interfaces.\n\n📖 Outside of Work: Britt's debut novel, \"A Dance of Lies\", was recently acquired by Bloomsbury Publishing Plc after a competitive four-way auction with additional deals in Germany, Italy, and France.\n\nJoin us in celebrating Britt’s dedication and creativity. Stay tuned for more stories from our talented makers and builders at Able every Friday!",
+    "image": {
+      "name": "Builder Spotlight",
+      "person": "Brittney Singleton",
+      "title": "Senior Visual Designer",
+      "additional_info": "Published Fantasy Author"
+    }
+  }
+},
+{
+  "post": {
+    "title": "We had a blast at today’s learning session on machine learning and artificial intelligence, led by our Principal AI Engineer, Arnon Bruno Ventrilho dos Santos! 🎉",
+    "content": "Arnon, who is pursuing his PhD in AI, shared his deep expertise with our team. He gave our engineers a technical deep dive and provided a more digestible overview for our Design, Product Strategy, Program Management, and Operations teams.\n\nHe used creative examples, like making a sandwich and a meme of Will Smith eating spaghetti, to illustrate complex machine-learning concepts. 🍔🤖🍝\n\nArnon’s core focus lies in harnessing the potential of Machine Learning, particularly Large Language Models (LLMs) and Generative AI. His passion for designing architecture, fine-tuning, and deploying these models is revolutionizing our solutions at Able.\n\nWe are lucky to have such a talented and dedicated team member driving our AI strategy and fostering cross-functional collaborations.\n\nGo team Able! 🚀",
+    "image_caption": "Screenshot of Arnon Santos presenting an internal learning session on 'Algorithms' to the Able team"
+  }
+},
+{
+  "post": {
+    "title": "Building Strong, Connected Communities",
+    "subtitle": "as Able’s Community Engagement Manager",
+    "author": "Larissa Shah",
+    "content": "At Able, we are a community of builders, united by a shared passion for creating impactful solutions. Every month, our Founders Interest Group brings together our company's seasoned entrepreneurs and aspiring innovators to share their journeys, fostering an environment rich in knowledge and inspiration. 💡🌐\n\nThis month, we heard from Larissa Shah, our new Community Engagement Manager. Larissa shared her journey of building an international wine distribution company from the ground up. In her presentation, “From Grapes to Globalization,” she walked us through the birth and growth of Quility Trading Partners.\n\nLarissa identified a unique market opportunity amidst the 2008 financial crisis. Despite having no initial knowledge, capital, or contacts, she successfully navigated the complexities of the wine industry and the Chinese market.\n\nHere are some key lessons Larissa shared:\n\n🌍 Leading Across Cultures:\n• Larissa emphasized the importance of fostering a sense of shared goals and mutual respect within her team. This approach was crucial in navigating complex international regulations and building strong relationships with global partners.\n\n🔄 Adaptability:\n• Consumer preferences and market landscapes are constantly evolving. Larissa highlighted that adaptability is key to business survival and success. Being able to pivot and adjust strategies was essential for delivering exceptional wines across the globe.\n\n🤝 Building Strong Relationships:\n• Larissa’s journey underscored the importance of building strong, lasting relationships. She shared how patience and cultural awareness were vital in closing contracts and maintaining long-term business connections. These skills remain integral to her role today, where she excels in community engagement and building new relationships.\n\nLarissa’s role as Community Engagement Manager at Able perfectly aligns with her passion for building strong, connected communities. Her journey underscores the importance of resilience, strategic thinking, and the power of diverse backgrounds—values that are at the core of Able’s mission.\n\nWe are proud to have Larissa as part of the Able family and look forward to the innovations and growth she will undoubtedly bring to our team."
+  }
+},
+{
+  "post": {
+    "title": "Inspiring Leadership",
+    "subtitle": "Lessons from Fathers at Able",
+    "message": "Our leaders at Able often draw inspiration from their roles as fathers. Today, we share some valuable lessons they’ve learned from parenting that influence our company culture and leadership. Happy Father’s Day to all the inspiring dads!",
+    "quotes": [
+      {
+        "name": "Any McKinney",
+        "title": "CEO",
+        "quote": "I have four kids and they are each innately different. Parenting is dynamic and bespoke based on style, ability, and personality type. The things that can be consistent are Values — things like kindness, respect, work ethic, and compassion. Being a dad is the best thing that’s happened in my life. I am grateful for it every day!"
+      },
+      {
+        "name": "Chad Felton",
+        "title": "Director of Partnerships",
+        "quote": "As a father, you are given both the gift and responsibility of viewing the world through your children’s eyes. The gift lies in witnessing their joy and excitement as they experience both life’s wonders and even most simple things for the first time. The responsibility involves consistently trying to understand their perspective to help guide them through life’s challenges and new situations. Similarly, to be an effective leader and good co-worker, you must strive to see the world from your colleagues’ viewpoints. This approach fosters collaboration and builds your organization on a foundation of empathy and understanding."
+      },
+      {
+        "name": "David Roy",
+        "title": "Software Product Manager",
+        "quote": "This past August, my daughter and I shared first days—hers in kindergarten and mine at Able. That morning, I couldn’t help but draw a few parallel truths between us: we worked hard to get to where we were, we were nervous, and we were excited. This fun coincidence reminded me that the fundamentals learned in kindergarten are just that: fundamental. They are a core set of skills and values that are essential in all stages of work and life. Be kind. Be curious. Ask questions. Grow. And, most reassuring to me, make mistakes. Able has not just allowed but encouraged me to do all of those things, and my first year here has been excellent (Able even provides snacks just like my daughter’s Kindergarten). I can’t wait to start 1st grade!"
+      },
+      {
+        "name": "Joel Cook",
+        "title": "Human-Centered Design Lead",
+        "quote": "Of all the titles I’ve been privileged to have, 'Dad' has always been the best."
+      }
+    ]
+  }
+},
+{
+  "title": "Building Products with Soul: A Deep Dive into Product Metrics",
+  "company": "Able",
+  "intro": "At Able, we take immense pride in helping our partners define their product’s measure of success. Understanding the right metrics is crucial for building products that not only perform well but also resonate deeply with users. Here’s how our Director of Product Strategy & Design, Kyle Luther Anderson approaches building products.",
+  "sections": [
+    {
+      "heading": "Starting from the End: Lagging Indicators",
+      "description": "Taking a page from Jeff Bezos, we begin with the end in mind. Lagging indicators provide a retrospective view of a product’s success, revealing insights months or even quarters after launch. Think of them as checkpoints in a race.",
+      "subsections": [
+        {
+          "title": "Product & Customer Service Metrics",
+          "metrics": [
+            "Market penetration",
+            "Customer lifetime value (CLV)",
+            "Retention rate",
+            "Churn rate",
+            "Net Promoter Score (NPS)"
+          ]
+        },
+        {
+          "title": "Business Impact Metrics",
+          "metrics": [
+            "Revenue impact",
+            "Profitability",
+            "Customer Acquisition Costs (CAC)",
+            "Customer Lifetime Value (CLV)",
+            "Return on Investment (ROI)"
+          ]
+        }
+      ],
+      "note": "While these indicators are vital for understanding overall success, they are too abstract for day-to-day decisions and feature prioritization."
+    },
+    {
+      "heading": "Looking Ahead: Leading Indicators",
+      "description": "Leading indicators are forward-looking, offering early signals and actionable insights to guide iterative improvements and strategic adjustments. Think of these as indicator lights on a dashboard.",
+      "subsections": [
+        {
+          "title": "User Behavior Metrics",
+          "metrics": [
+            "Click-Through Rate (CTR)",
+            "Bounce rate",
+            "Feature adoption rate",
+            "Task completion rate",
+            "Usage frequency"
+          ]
+        },
+        {
+          "title": "Product Health Metrics",
+          "metrics": [
+            "Error rate",
+            "System uptime",
+            "Response time",
+            "Mean Time to Recover (MTTR)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Building Products with Soul",
+      "content": "That said, products are more than a sum of their metrics; great products have \"soul.\" I drive a Jeep Wrangler, an example of a great product with soul. It's clearly designed and built by professionals who love what they do. Jeep's slogan is \"Have fun out there.\" The professionals building Jeep Wranglers know their customer base well, and they ruthlessly prioritize features that would make the Jeep experience \"fun\" while not spending too much time and product investment on features that would reduce cabin noise or improve ride comfort.\n\nAt Able, we strive to infuse that same enthusiasm into our product-building process. We balance metrics with user insights to solve the right problems and deliver exceptional experiences. Let’s help our partners build products that not only succeed in the market but also have a soul."
+    }
+  ]
+},
+{
+  "title": "Able Book Club: Key Takeaways from 'Human Work in the Age of Smart Machines' by Jamie Merisotis",
+  "company": "Able",
+  "intro": "Our Able book club is diving into “Human Work in the Age of Smart Machines” by Jamie Merisotis. Here are some key takeaways from our discussion:",
+  "sections": [
+    {
+      "heading": "🤖 Complementing Human Work",
+      "content": "AI should enhance human capabilities, not replace them, by working alongside us to improve efficiency and innovation."
+    },
+    {
+      "heading": "👥 Human Skills and AI",
+      "content": "Critical human skills like ethics, problem-solving, and compassion are irreplaceable and essential for future job roles."
+    },
+    {
+      "heading": "🔄 Integration of Work and Learning",
+      "content": "Continuous learning and integrating work with education are crucial to staying relevant in an AI-driven world."
+    },
+    {
+      "heading": "📊 Closing Skill Gaps and Continuous Improvement",
+      "content": "Identifying skill gaps, prioritizing training, and leveraging platforms like LinkedIn for ongoing learning and development are vital. Encouraging curiosity, experimentation, and knowledge sharing enhances individual and team performance."
+    }
+  ],
+  "conclusion": "At Able, we find this book highly relevant as it aligns with our mission to unlock growth through innovative technology and human-centered design. It emphasizes the importance of balancing AI with human skills, continuous learning, and skill development, which are core to our values and approach. We’re excited to continue our journey of learning and growing together at Able!"
+},
+{
+  "title": "Happy Pride! Celebrating Health Equity for the LGBTQIA+ Community",
+  "company": "Able",
+  "intro": "As Pride Month kicks off, we at Able want to highlight the importance of health equity in the LGBTQIA+ community. According to KFF (https://bit.ly/458XNIS), 61% of LGBTQIA+ adults have reported negative experiences with healthcare providers. With research showing that culturally sensitive care can make a significant difference, it’s essential for the industry to reflect on and address these disparities.",
+  "content": "At Able, we’re proud to work with partners like Redesign Health to improve healthcare outcomes and ensure equitable care for all. Join us in celebrating Pride Month by committing to advancing health equity.",
+  "hashtag": "#PrideMonth #HealthEquity #LGBTQIA"
+},
+{
+  "announcement": {
+    "title": "We are thrilled to announce Joel Cook as our Human-Centered Design Lead!",
+    "company": "Able",
+    "content": "As Sr. Designer II, Joel exemplified the essence of design and is consistently focused on partner value creation. His ability to deeply understand our partner's needs and context and his deliberate and diligent approach to crafting solutions have been commendable. Joel doesn't just design; he empathizes, advocates, and innovates, always striving to deliver the best possible outcomes for our partners and users.",
+    "description": "Joel's elevated position is a testament to his exemplary work ethic and embodiment of Able's core values: Put people first, Imagine better, Expect excellence, Simplify to solve, We are all builders, and One Able; many voices. He leads by example, consistently advocating for the needs of our partners, users, and fellow team members. His ambition, curiosity, thoughtfulness, and dedication have earned him the respect of his peers and positioned him as a role model within our organization.",
+    "new_role": {
+      "position": "Human-Centered Design Lead",
+      "focus_areas": [
+        "Lead the Delivery of Partner Value Creation",
+        "Advancing our Design Practice",
+        "Assisting in Go-To-Market Activities",
+        "Championing Design Principles"
+      ]
+    },
+    "congratulations": "Congratulations, Joel! We look forward to seeing the incredible impact you will continue to make at Able."
+  }
+},
+{
+  "title": "Demystifying AI in the SDLC: Practical Steps for Mid-Market CTOs",
+  "author": "Jose Rodriguez",
+  "company": "Able",
+  "intro": "In today's fast-paced digital landscape, mid-market companies are under immense pressure to innovate and deliver software faster than ever before. The promise of AI to revolutionize the Software Development Lifecycle (SDLC) is undeniable—unlocking unprecedented speed, efficiency, and quality. However, many mid-market CTOs feel overwhelmed by the complexities of AI adoption. Where do they even begin? According to a recent report, the global AI market in software development is projected to grow from $184 billion in 2024 to $266 billion by 2025, highlighting the urgency for companies to adapt.",
+  "sections": [
+    {
+      "heading": "Identifying AI Opportunities in the SDLC",
+      "content": "AI can create transformative impacts across diverse business areas—ranging from production, supply chains, and automation to marketing, HR, product development, and customer experiences. It’s important for companies to begin their AI journey by identifying high-impact, quick-win opportunities. These early successes serve as the foundation for scaling AI initiatives across the organization, driving both incremental improvements and large-scale transformation.",
+      "steps": [
+        "Analyze your current SDLC to identify bottlenecks.",
+        "Prioritize AI initiatives that align with strategic goals and offer high ROI. Use a scoring system to evaluate potential AI projects based on impact and feasibility.",
+        "Engage stakeholders to ensure alignment and buy-in."
+      ],
+      "example": "A mid-market manufacturing company sought to enhance its software development processes by identifying AI opportunities within its SDLC. By adopting generative AI tools, the company was able to accelerate its development cycle by over three times, freeing up valuable resources and allowing the team to focus on more strategic tasks."
+    },
+    {
+      "heading": "Smart AI Adoption: Starting Small for Big Impact",
+      "content": "Starting small with AI adoption can lead to significant impacts without overwhelming resources. A strategic approach involves beginning with a Proof of Concept (PoC) that offers high value but limited risk. This method allows teams to demonstrate value before scaling up, ensuring that AI initiatives are both impactful and sustainable.",
+      "steps": [
+        "Start with a PoC with high value but limited risk.",
+        "Use pilot projects to demonstrate value before scaling up. Use pilot projects to validate assumptions and refine your approach."
+      ],
+      "research": "Mid-market companies are strategically focusing their AI investments on high-impact areas. Recent research from RSM shows that among companies implementing generative AI, the top priorities are improving quality control (58%), enhancing customer service (51%), and automating repetitive tasks (45%)."
+    },
+    {
+      "heading": "Implementing AI Solutions on a Budget",
+      "content": "Budget constraints are a common challenge for mid-market companies looking to adopt AI. However, there are cost-effective solutions available that can deliver significant benefits. Exploring open-source AI tools and cloud-based services can provide robust capabilities at a lower cost, allowing companies to maximize ROI while minimizing upfront investment.",
+      "steps": [
+        "Start with AI-Assisted Development with tools like Cursor or GitHub Copilot.",
+        "Explore open-source AI tools and platforms that offer robust capabilities at a lower cost (i.e. CrewAI, Langchain).",
+        "Consider cloud-based AI services with pay-as-you-go models that provide scalability and flexibility (i.e. AWS, Azure, GCP).",
+        "Evaluate cost-effective AI tools that integrate with existing workflows (i.e. Anthropic Claude API for various AI capabilities, CodeRabbit for code review)."
+      ]
+    },
+    {
+      "heading": "Building AI Capabilities with Limited Resources",
+      "content": "Building AI capabilities with limited resources requires a focus on upskilling and strategic partnerships. By investing in training and creating an AI champion program within the development team, companies can foster a culture of continuous learning and innovation.",
+      "steps": [
+        "Upskill existing developers through online courses and workshops.",
+        "Partner with AI solution providers for training and support.",
+        "Create an AI champion program within your development team.",
+        "Foster a culture of continuous learning and innovation."
+      ]
+    },
+    {
+      "heading": "Measure, Optimize, and Scale AI Impact",
+      "content": "To ensure the long-term success of AI initiatives, it's crucial to measure, optimize, and scale their impact. By defining clear KPIs aligned with business goals and regularly reviewing AI strategies, companies can continuously improve their AI capabilities and outcomes.",
+      "steps": [
+        "Document successful use cases and lessons learned.",
+        "Define clear KPIs aligned with business goals.",
+        "Use analytics tools to monitor AI performance and outcomes.",
+        "Regularly review and refine AI strategies based on insights.",
+        "Create an AI adoption roadmap aligned with business goals."
+      ],
+      "research": "The importance of a measured approach to AI adoption is underscored by recent market data. According to RSM's 2024 research, while AI adoption is high among mid-market companies, 41% are currently in the partial implementation phase, with only one-fifth achieving full integration. This staged approach allows organizations to learn and adapt while managing risks."
+    }
+  ],
+  "conclusion": "In conclusion, the integration of AI into the SDLC offers mid-market CTOs a powerful opportunity to enhance efficiency, quality, and innovation. By following the practical steps outlined in this guide, companies can overcome common challenges and unlock the transformative potential of AI. As the AI market continues to grow, staying ahead of the curve will be essential for maintaining a competitive edge. Start small, measure success, and scale strategically to ensure your organization reaps the full benefits of AI-driven development.",
+  "contact_info": "For more insights and support, connect with Able’s AI experts and explore the latest AI tools and strategies tailored to your needs.",
+  "author": {
+    "name": "Jose Rodriguez",
+    "title": "AI Solutions Lead & AI Partner Enablement at Able",
+    "bio": "Jose is a results-driven professional with a proven track record in leading digital transformations and agile projects. With a unique blend of technical expertise, program delivery experience, and startup advisory, he excels at leveraging AI to drive impactful solutions and enable next-gen services for dynamic, transformative environments."
+  },
+  "sources": [
+    {
+      "source_name": "Statista (2024)",
+      "source_url": "https://www.statista.com/forecasts/1474143/global-ai-market-size"
+    },
+    {
+      "source_name": "World Economic Forum (2024)",
+      "source_url": "https://www.weforum.org/stories/2024/01/5-ways-ai-can-help-mid-market-companies-grow-faster/"
+    },
+    {
+      "source_name": "Hfsresearch (2024)",
+      "source_url": "https://www.hfsresearch.com/research/genai-applications-modernization/"
+    },
+    {
+      "source_name": "RSM (2024)",
+      "source_url": "https://rsmus.com/insights/services/digital-transformation/middle-market-confident-about-ai-despite-early-stage-adoption-challenges.htm"
+    }
+  ]
+},
+{
+  "title": "The Evolving Role of Engineers in the Age of AI",
+  "author": "Pradeepa Dhanasekar",
+  "shareText": "Share:",
+  "content": [
+    "Leading the engineering discipline at Able, I've had the privilege of working with a team that is both exceptional and naturally curious. Experimentation is in our DNA—we’ve always been early adopters, thoughtfully evaluating new tools and technologies before integrating them into our stack.",
+    "When GenAI tools started gaining traction in late 2022, we approached them with both enthusiasm and healthy skepticism. Through structured experiments, we benchmarked their impact on code quality, development velocity, and overall workflow efficiency. It quickly became clear that this wasn’t just another incremental improvement—it was a fundamental shift in how software is built.",
+    "As engineers integrate AI into their daily work, we’ve seen a natural expansion beyond traditional role boundaries. Some wrestle with the transition, adjusting to a reality where their expertise is less about writing every line and more about guiding AI effectively. Others see it as a liberation from repetitive tasks, allowing them to focus on deeper problem-solving.",
+    "What’s clear is that the role of engineers is evolving. The most valuable skills are shifting—from syntax mastery to systems thinking, from code production to AI collaboration, and from pure implementation to defining and framing complex problems."
+  ],
+  "section_AI_Augmenting": {
+    "heading": "How AI is Augmenting Engineering Capabilities",
+    "content": [
+      "Our engineers have shared how much the developer experience has improved, likening it to the early days of Ruby on Rails—freeing them from tedious boilerplate and allowing them to focus on creativity and problem-solving."
+    ],
+    "bullets": [
+      {
+        "title": "Reduced language barriers",
+        "text": "Engineers no longer need to obsess over specific language details, allowing them to move fluidly between JavaScript, Python, or Rails as the problem demands. This flexibility has accelerated our ability to select the right tool for each job."
+      },
+      {
+        "title": "Empowerment and experimentation",
+        "text": "Our teams are building experimental projects at an unprecedented rate. Ideas that would have been dismissed as ‘too much effort for the potential return’ are now regularly prototyped in days rather than weeks."
+      },
+      {
+        "title": "Rapid iteration cycles",
+        "text": "The ability to quickly generate code, test an approach, discard it if necessary, and rebuild has transformed how we approach problem-solving. This disposability of code—being able to try multiple approaches without significant investment—has led to more creative solutions."
+      },
+      {
+        "title": "Shifting focus to architecture",
+        "text": "With AI streamlining certain implementation details and automating repetitive tasks, our engineers can focus more on system design, user experience, and making thoughtful architectural decisions."
+      }
+    ]
+  },
+  "section_AIPoweredTeam": {
+    "heading": "The AI-Powered Engineering Team",
+    "content": [
+      "There's an important distinction emerging between teams that develop AI systems and teams that use AI as part of their development process. The former requires specialized AI engineering talent, while the latter represents the new normal for all engineering teams.",
+      "The traditional \"two-pizza\" team model remains effective at Able, but the composition of these teams is evolving rapidly.",
+      "Software Engineers - Still the core of any engineering team, but now armed with AI-enhanced tooling.",
+      "AI/ML Engineers - Specialists who develop and fine-tune ML models for specific business applications.",
+      "Data Engineers - More critical than ever as they build the data infrastructure that powers AI systems.",
+      "MLOps Engineers - The evolution of DevOps focused on the unique challenges of deploying and monitoring ML systems, especially generative AI which introduces new complexities in production environments.",
+      "We're also seeing AI melt away rigid boundaries that traditionally existed in companies. Developers can now operate as designers and product managers, while product managers can contribute to coding tasks. This fluidity creates both opportunities and challenges for team composition and collaboration."
+    ]
+  },
+  "section_AIPoweredEngineer": {
+    "heading": "The AI-Powered Engineer",
+    "content": [
+      "The role of software engineers is rapidly evolving as AI becomes deeply integrated into the dev cycle. Let's map out how these engineering roles are evolving:"
+    ],
+    "roles": [
+      {
+        "from": "Full Stack Engineer",
+        "to": "Full Stack AI Engineer",
+        "description": "The modern full stack engineer integrates AI capabilities throughout the entire application stack. They now implement AI features across front-end experiences, API layers, and back-end systems. They leverage AI to rapidly prototype complete applications and spend more time on architecture decisions while AI handles repetitive tasks. These engineers focus on connecting AI services into cohesive applications rather than building the AI models themselves."
+      },
+      {
+        "from": "Front-End Engineer",
+        "to": "AI-Powered Front-End Engineer",
+        "description": "Front-end engineers now incorporate AI-driven components, intelligent user interfaces, and predictive UX patterns. They leverage models for UI development, automate accessibility testing, and implement personalized user experiences powered by real-time AI adaptation. Their coding workflow is accelerated allowing them to focus on creative design challenges and user-centered innovations."
+      },
+      {
+        "from": "Back-End Engineer",
+        "to": "AI-Powered Back-End Engineer",
+        "description": "Back-end engineers now design and implement systems that seamlessly integrate with AI services and ML models. They build APIs optimized for AI interaction, design data flow architectures that support ML pipelines, and create serverless functions that trigger contextual AI processing. Their expertise extends to performance optimization for AI workloads and designing fault-tolerant systems for AI components."
+      },
+      {
+        "from": "Data Engineer",
+        "to": "AI/ML Data Engineer",
+        "description": "Data engineers have evolved to specialize in building the data foundations that power machine learning systems. They design data pipelines optimized for ML training, implement feature stores, and ensure data quality for AI consumption. Their role now includes data versioning, automated data validation, and maintaining the data infrastructure that enables continuous model training. Their focus has shifted from basic ETL processes to creating robust data ecosystems that can reliably fuel AI systems."
+      },
+      {
+        "from": "DevOps Engineer",
+        "to": "MLOps Engineer",
+        "description": "DevOps engineers have expanded their toolkit to address the unique challenges of deploying and monitoring machine learning systems. They implement continuous integration for ML models, build automated testing for AI components, and create monitoring systems that detect model drift. Their role now encompasses model deployment, version control for datasets, and maintaining the infrastructure for distributed ML training. The complexity of maintaining AI systems in production has transformed this role from infrastructure management to AI operational excellence."
+      },
+      {
+        "from": "AI Engineer",
+        "to": "Applied AI Specialists",
+        "description": "AI Engineers are evolving into Applied AI Specialists who focus on building and fine-tuning deep learning models for specific business domains. These specialists develop custom neural network architectures, design training pipelines, and optimize model performance for targeted use cases. Their work involves selecting appropriate algorithms, engineering features, tuning hyperparameters, and addressing domain-specific challenges like data imbalance or transfer learning requirements.",
+        "additional": "They excel at adapting foundation models through techniques like RAG and fine-tuning to solve vertical-specific problems, and they implement complex evaluation frameworks to measure model performance against business KPIs. These engineers apply cutting-edge AI techniques to deliver measurable business outcomes in production environments."
+      }
+    ]
+  },
+  "section_Leadership": {
+    "heading": "Leading the AI-Powered Engineering Evolution",
+    "content": [
+      "In this age of AI, every engineer will be an AI-powered engineer—and as leaders, our challenge is to foster a culture that embraces this partnership while ensuring we're building not just faster, but a lot better.",
+      "The question for engineering leaders isn't whether to adopt AI, but how intentionally you'll shape its integration into your team's workflow. Start by identifying a single role transition that could deliver immediate impact in your organization. Is it empowering your DevOps engineers to build MLOps capabilities? Or perhaps enabling your front-end team with AI-powered design tools? Begin with targeted experiments, measure the outcomes, and let the results guide your broader AI strategy.",
+      "The most successful engineering organizations won't be those with the most advanced AI tools, but those who thoughtfully reimagine how their engineers work with these new capabilities.",
+      "How will you reshape your engineering team for the AI-powered future?"
+    ]
+  },
+  "tags": [
+    "Generative AI",
+    "Mid-market Orgs",
+    "SDLC"
+  ]
+},
+{
+  "date": "Feb 14, 2025 11:00:51 AM",
+  "title": "Actions Leaders Can Take Now for Responsible AI",
+  "author": "Pradeepa Dhanasekar",
+  "shareText": "Share:",
+  "introduction": [
+    "Recent findings reveal a stark reality: 36% of AI researchers warn of catastrophic risks from uncontrolled AI development. As someone who has led technology teams through multiple waves of disruption, I've observed that companies typically approach AI adoption in one of two ways: either reactively scrambling to catch up or strategically integrating AI as a competitive advantage.",
+    "The difference between these approaches isn't just technical capability—it's a fundamental understanding that responsible AI implementation is the only sustainable path forward. With AI, the winners won't simply be first-to-market—they'll be first-to-trust.",
+    "For CTOs and technology leaders, implementing responsible AI isn't just about avoiding risks—it's a strategic advantage that creates lasting value while protecting your organization's future. While many view this as compliance overhead, robust governance now builds the foundation for competitive differentiation as enterprise customers increasingly audit AI vendors' ethical practices."
+  ],
+  "section_cost_of_inaction": {
+    "heading": "The Cost of Inaction"
+  },
+  "section_making_it_happen": {
+    "heading": "Making it Happen",
+    "description": "The five action areas outlined below represent the minimum viable governance needed to navigate both current and future AI landscapes without sacrificing innovation velocity, ultimately creating sustainable business value.",
+    "actions": [
+      {
+        "title": "1. Design Human-Centered Governance",
+        "points": [
+          "Move beyond technical solutions to build governance that puts human values first.",
+          "Use the Values Canvas framework to map ethical considerations",
+          "Establish AI ethics committees with cross-functional representation",
+          "Define which steps and decisions are human-controlled versus AI-controlled, with explicit escalation paths between them to maintain appropriate oversight and accountability.",
+          "Transform compliance policies into agentic workflows (e.g., HIPAA agent)",
+          "Convert regulations into step-by-step processes",
+          "Auto-assign tasks based on team expertise",
+          "Generate multi-framework risk assessments",
+          "Track compliance status in real-time"
+        ],
+        "note": "AI Values Canvas Framework"
+      },
+      {
+        "title": "2. Build Evaluation Excellence",
+        "points": [
+          "Implement comprehensive testing that balances capabilities with responsibility",
+          "Deploy automated testing for technical performance",
+          "Conduct regular alignment evaluations for ethical concerns",
+          "Create risk assessment frameworks specific to AI deployments",
+          "Establish clear thresholds for deployment decisions"
+        ]
+      },
+      {
+        "title": "3. Create a Culture of Responsibility",
+        "points": [
+          "Foster an environment where responsible AI is everyone's priority",
+          "Launch \"AI Ethics Champions\" program across disciplines",
+          "Develop practical AI ethics training for different roles",
+          "Build communities of practice around responsible AI",
+          "Partner with academic institutions for ongoing research"
+        ]
+      },
+      {
+        "title": "4. Implement Proactive Safeguards",
+        "points": [
+          "Move beyond reactive security to build preventive measures",
+          "Conduct benchmarks against known safety and bias prevention datasets",
+          "Create AI-specific security monitoring systems",
+          "Establish clear protocols for model access and deployment",
+          "Develop incident response plans for AI-specific scenarios",
+          "Regular security assessments of AI infrastructure"
+        ]
+      },
+      {
+        "title": "5. Drive Transparent Operations",
+        "points": [
+          "Make responsible AI visible and measurable throughout your organization",
+          "Create dashboards tracking ethical AI metrics",
+          "Establish regular reporting on AI impact",
+          "Share lessons learned across teams",
+          "Maintain open communication with stakeholders"
+        ]
+      }
+    ]
+  },
+  "conclusion": "The move toward responsible AI isn't just an ethical imperative—it's a strategic necessity that will define market leaders in the coming years. While the tasks may seem daunting, successful implementation doesn't require a complete organizational overhaul. It begins with small, deliberate steps that build momentum over time.",
+  "closing": "Remember to build Responsibly, Safely, and Securely. It matters!"
+},
+{
+  "name": "Pradeepa Dhanasekar",
+  "title": "Director of Engineering",
+  "company": "Able",
+  "bio": "Pradeepa is an accomplished Director of Engineering with experience driving innovation through AI/ML integration and aligning team OKRs with strategic company goals. She excels in building high-performing, diverse teams, fostering collaboration, and delivering impactful, market-aligned solutions."
+},
+[{
+  "url": "https://blog.able.co/blog/the-rise-of-vertical-ai-and-the-value-of-efficient-domain-models",
+  "text": "The Rise of Vertical AI and the Value of Efficient Domain Models\nJan 23, 2025 5:24:04 PM \nThe imperative for companies to adopt Artificial Intelligence (AI) solutions is intensifying. However, the path to effective implementation and productionalizing models presents challenges, especially depending on industry. While generalizable and commercial off-the-shelf AI models offer a broad foundation, their lack of specialization (e.g., specific financial or healthcare regulatory knowledge) and frequent hallucinations often necessitates extensive fine-tuning and substantial datasets, leading to protracted development cycles and inflated costs. This post explores the growing development of “Vertical AI”, focusing on the utilization of efficient domain models as a key driver of AI adoption and ROI.\nVertical AI, characterized by its focus on specific industries or business functions, presents a compelling alternative to general approaches. By leveraging pre-trained models imbued with domain-specific knowledge, companies can unlock a range of benefits using their proprietary data and knowledge, including streamlined development, reduced costs, and improved accuracy and fewer hallucinations. This targeted approach allows for the development of bespoke AI solutions that address unique industry challenges and drive competitive advantage.\nEfficiency through Specialization: The Role of Domain Models\nDomain models are purpose-built AI models trained on data relevant to a particular industry or function. Unlike generic models, which require extensive customization and fine-tuning to achieve optimal performance, domain models arrive pre-equipped with a wealth of specialized knowledge and can be fine-tuned even more with proprietary data that is owned end-to-end by the domain experts. This inherent efficiency translates to several key advantages:\nAccelerated Development Cycles: By leveraging domain models as a foundation, development teams can significantly reduce the time and resources required for training and fine-tuning models. This accelerated time-to-value allows for rapid deployment and faster realization of ROI.\nCost Optimization: Building AI solutions from scratch is a resource-intensive endeavor. Domain models offer a more cost-effective alternative by providing a pre-existing framework upon which to build. This reduces initial investment and allows for the allocation of resources to other critical areas.\nEnhanced Accuracy and Relevance: Generic AI models, trained on vast and generalized datasets, often struggle to achieve high accuracy in specialized domains. Domain models, conversely, are trained on curated data specific to the industry or function, leading to improved accuracy, more relevant insights, and superior performance on domain-specific tasks. They can be further fine-tuned with proprietary data to be even more accurate and performant.\nEvidentiary Support and Practical Applications\nThe efficacy of domain-specific models is supported by a growing body of research. For instance, the \"LoRA: Low-Rank Adaptation of Large Language Models\" (Hu et al., 2021) paper demonstrates how parameter-efficient fine-tuning techniques can be applied to large language models to achieve strong performance on specific tasks with minimal computational overhead. Fine-tuning a 7B parameter model can now be done in a single GPU rather than a cluster. There are additional papers that show new techniques (e.g., DeepSeek) for smaller, intentionally tuned models can perform just as well as larger models or better at the given task. This approach exemplifies the trend towards specialized models that deliver targeted results, as now many such models can be chained together for a task-specific approach.\nFurthermore, real-world applications of vertical AI are emerging across diverse sectors. In Healthcare, domain specific LLMs are being fine-tuned or as the basis of RAG models to improve administrative and clinical decision making tasks, and serving as a source of intelligence for healthcare data generally for different stakeholders (e.g., translating a pathology report into easier-to-understand verbiage for patients). For the legal industry, custom LLMs are being built to handle legal and consulting tasks such as research or specific question-answering across documents. Some approaches even build context-aware models per document. Last, in Finance, co-pilots for financial advisors and automation in underwriting, tax, and auditing are being developed with specific regulatory and tax code knowledge.\n\nStrategic Considerations for Mid-Market CTOs\nWhen evaluating vertical AI solutions, which may have more complex implementations relative to using off-the-shelf general models, CTOs should consider the following approaches in addition to standard strategic business criteria:\nProof of Concept (POC): Consider conducting a pilot project to test the solution in a real-world setting with practical workflows that integrate into business priorities before committing to a full-scale implementation. Clearly define success criteria.\nCost-Benefit Analysis: Thoroughly analyze the costs and benefits of the AI solution, considering both short-term and long-term implications. Consider the changes in research, which is trending toward even more efficient and reduced constraints on compute and hardware for such tasks.\nInternal Expertise: Vertical models may require additional skills to implement or maintain. Assess your internal team's capabilities and identify any skills gaps that need to be addressed, as well as any change management efforts.\nConclusion\nThe rise of vertical AI marks a significant evolution in the AI landscape. By leveraging efficient domain models, mid-market companies can overcome the hallucinations and limitations of generic AI solutions and unlock more specialized models fit for industry tasks. As the demand for specialized AI solutions grows, CTOs who embrace this trend will be well-positioned to drive innovation, optimize operations, and gain a decisive competitive edge in an era where startups and innovators are using domain models to disrupt industries.\nMichelle Yi, Head of Applied AI\nMichelle brings over 15 years of experience in machine learning, cloud computing, and AI innovation. A passionate advocate for diversity in STEM and community engagement, Michelle specializes in leveraging AI to tackle complex challenges and drive meaningful impact across industries."
+},
+{
+  "url": "https://blog.able.co/blog/challenges-in-translating-ai-research-into-pe-workflows",
+  "text": "From Lab to Leverage: Challenges in Translating AI Research into PE Workflows\nFeb 7, 2025 11:51:17 AM \nThis \"AI is revolutionizing...\" thing has become a familiar refrain across industries, the journey from artificial intelligence research to practical implementation in private equity (PE) presents unique challenges. Integrating AI into high-stakes PE workflows, from sourcing deals to conducting due diligence and managing portfolios, requires more than just cutting-edge technology. In an industry built on expertise and trust, many investment professionals remain wary of cutting-edge black-box models guiding million-dollar decisions. This article explores the complex barriers between AI's theoretical potential and its practical application in PE, examining integration hurdles, trust issues, and real-world lessons from early adopters. We'll also investigate how bridging this gap requires a two-sided evolution: AI researchers developing more practical, interpretable solutions while PE firms build stronger technological foundations through investments in data infrastructure, talent, and cultural change.\nIntegrating AI into Private Equity Workflows\nPE firms handle a spectrum of activities – identifying investments, vetting targets, improving portfolio companies, and assessing risks. AI can theoretically enhance each of these, but incorporating them into existing processes is (still) far from plug-and-play. Key areas include:\nAI Use Case\tHow AI Helps\tChallenges\t\nDeal Sourcing\tAI models scan financial databases, news, and social media to identify promising investment targets and emerging sector trends.\tIntegrating AI insights with traditional relationship-driven sourcing. Requires vast, high-quality data and seamless integration.\t\nDue Diligence\tAI quickly analyzes financials, legal documents, and customer data, accelerating due diligence by summarizing large datasets.\tTrust and accuracy concerns—ensuring AI insights do not miss critical deal-specific nuances.\t\nPortfolio Management\tAI optimizes pricing, finds cost savings, predicts maintenance needs, and provides analytics to flag potential operational inefficiencies.\tEach portfolio company has different systems and data governance practices; AI adoption requires significant training and data standardization.\t\nRisk Assessment\tAI assists in risk modeling, scenario analysis, and monitoring real-time data to alert investors of emerging risks.\tPrivate market risks are often rare, qualitative, and difficult to quantify, making AI predictions less reliable for black swan events.\t\nDeal Sourcing:\nFinding promising companies to buy is labor-intensive. AI models can scan financial databases, news, and even social media to spot hidden gems or sector trends that human partners might miss​.\nChallenge: Integrating AI insights with traditional relationship-driven sourcing. Senior partners may be skeptical if an algorithm flags a target that isn’t already on their radar. Moreover, effective AI requires vast, high-quality data, and seamless development and integration.\nDue Diligence:\nBefore acquiring a company, PE investors pour over financials, legal documents, customer data, and more. AI can turbocharge this process by quickly analyzing documents and datasets. Generative AI tools are already scanning “reams of data in a fraction of the time” it takes humans​.\nChallenge: Trust and accuracy. An AI might summarize patterns, but investment committees need to trust that nothing critical was missed. Each deal is unique, and context matters – something even the most advanced AI agents can overlook without human guidance. Firms are starting to bake AI into standard diligence (e.g. using scorecards to assess AI-related opportunities and risks), but making these analyses as routine as traditional legal or financial diligence will take\nPortfolio Management:\nAfter an acquisition, PE firms work to improve the company’s performance. Here AI can help optimize pricing, find cost savings, or predict maintenance needs. Advanced analytics can flag early warning signs in KPIs or suggest operational tweaks to boost efficiency. In practice, some PE firms now deploy AI specialists to work with portfolio companies on projects like customer segmentation or supply chain optimization​.\nChallenge: Each portfolio business has its own systems and culture. Bringing cutting-edge AI into a mid-sized manufacturing firm, for example, means dealing with messy data and retraining staff to use new tools. Data governance is critical – many institutions admit to weak data practices, and only 18% of front-office teams at investment firsms say they can get data they need without manual intervention​. Needless to say, without clean, integrated data, even the best models fall flat.\nRisk Assessment:\nPE deals entail significant risk – from market swings to a target company underperforming. AI models can aid in risk modeling by analyzing scenarios or simulating how macroeconomic changes might impact a portfolio. AI can also monitor real-time data (news, social sentiment, etc.) to alert investors to emerging risks. \nChallenge: Many risk factors in private markets are rare or qualitative (e.g. a sudden regulatory change or a CEO’s health) and hard to quantify. AI predictions are only as good as their training data, and in finance black swan events are, by definition, very difficult to spot in advance.\nIntegrating AI into these workflows is complex and requires deep expertise and change management. Research by McKinsey noted that many companies’ early attempts at AI and advanced analytics in business “failed… because it’s hard” – success demands not just technology, but also organizational change, patience for ROI, the right set of skills and strong data governance​. In private equity, inserting AI into the mix means redesigning workflows and convincing humans to adapt. This complexity helps explain why, despite the potential, adoption has been cautious.\nTrust Issues in High-Stakes Decision Making\nFrom what we've seen, trust seems to be one of the biggest barriers to AI adoption in PE. Even more for cutting-edge research. High-stakes decisions and reputation rests on delivering returns to investors. It’s no surprise that professionals are wary of delegating decisions to AI without clear evidence and transparency. This survey by KPMG shows nearly three in five people are wary of trusting AI systems, and about 67% report only low to moderate acceptance of AI in general. In the PE boardroom, this wariness is amplified: an algorithm might analyze faster, but can it be trusted to capture the nuance of a deal?\nA core issue is that recent advancements in AI are often “black box” models. Complex machine learning algorithms that generally lack full explainability – they can output a recommendation but not a clear understandable rationale that humans can follow or relate to. In a domain like finance, if an AI suggests passing on an investment that seasoned partners favor (or vice versa), it will likely be challenged to “show its work.” Without explainability, investment committees default to human judgment, which they understand and can justify to their own investors.\nThere’s also the matter of accountability and risk. If a deal goes wrong, fund managers must answer to their limited partners. Relying on AI doesn’t absolve them of blame. This incentivizes cautious use: AI might be an advisor, but rarely the final word. Building trust in AI tools takes time – often by starting with low-risk tasks. For instance, a firm might first use AI to automate mundane data gathering or to double-check models, gradually gaining confidence in the tool’s reliability.\nIndustry experts highlight that trust must also extend to AI vendors. According to Bain & Company’s Richard Lichtenstein, a “lack of trustworthy vendor solutions” is a challenge – few off-the-shelf AI products have proven they can consistently deliver on PE use cases. Apparently, many funds have tried third-party analytics platforms that promised to revolutionize sourcing or forecasting, only to find the results underwhelming or not fully credible to deal teams. This has made some PE investors skeptical of vendors’ hype. \nTo overcome these trust issues, PE firms are increasingly demanding explainable and auditable AI. They want models where assumptions can be examined and stress-tested. A potential strategy to achieve that is developing in-house AI capabilities, so they can retain full control and understanding of the algorithms. Others are focusing on “glass box” AI (simpler models or interpretable approaches) for critical decisions, reserving black-box models for auxiliary analysis.\nBridging the Gap: AI Research vs. PE Practice\nDespite rapid advances in AI research, a gap remains between cutting-edge models and practical use in PE. In theory, today’s AI – with state-of-the-art predictive analytics and massive language models – could transform how investment decisions are made. In practice, adoption has been slow and uneven. Many PE firms are still “on the digital sidelines”, lagging behind other financial sectors in AI uptake​. A recent global benchmarking study by McKinsey found less than 20% of institutional investors feel “ready” to incorporate AI and other future technologies into their processes​. Another industry poll by the World Economic Forum revealed that only 2% of PE firms expect to realize significant AI-driven value by 2025, even though 93% anticipate at least moderate benefits from AI in the long run​. In other words, nearly everyone believes AI is important, but almost no one thinks they’re getting major value from it today.\nWhy the disconnect? One reason is that cutting-edge AI often doesn’t fit neatly into real-world constraints. Academic researchers might develop a novel machine learning model that predicts company defaults or market shifts with impressive accuracy on historical data. But a PE firm trying to implement that model faces hurdles: Do we have the required data (and rights to use it)? Does the model output make sense to our decision-makers? How do we integrate it into our due diligence workflow or investment committee reviews? The latest research often assumes ideal conditions – complete datasets, clear objective functions – which rarely exist in the messy reality of private markets. Moreover, PE firms are typically lean operations when it comes to tech. Unlike big banks, a PE fund might not have a large IT and analytics division. Lichtenstein notes that even “large” PE funds might have just 1–3 data scientists for the whole firm. This limited in-house expertise means there’s a capacity gap – few people to interpret state-of-art academic AI research or rebuild it for the firm’s needs. PE investors can’t “throw an army of engineers” at the problem of customizing AI tools, so the latest innovations often remain stuck in papers and prototypes. It’s telling that most PE funds are only experimenting at a small scale. McKinsey found that while about 60% of PE portfolio companies had at least a pilot in generative AI, only ~5% had scaled any AI initiative to production across the business​\nThe gap is also evident in outcomes versus expectations. Private investors widely agree AI will be transformative, yet current deal outcomes rarely cite “AI” as a differentiator. For example, Bain's recent survey of PE investors showed 83% wanted to see companies they acquire be ‘AI data ready’, but only 40% of evaluated targets met that bar​. Similarly, three-quarters of investors wanted targets to have a bold AI strategy, but only one-third of companies delivered on that​. This suggests PE firms are hungry for AI advantages, but the market hasn’t caught up – many companies (and PE internal teams) are still at the starting line of the AI race.\nBridging this gap will require convergence from both sides: AI researchers focusing more on practical, interpretable solutions, and PE practitioners becoming more tech-savvy. Encouragingly, some PE firms are investing in the foundation – data infrastructure, talent, and cultural change – to pave the way for AI. Leading investors “treat data as a strategic asset” and build robust data lakes and governance so that AI models have reliable fuel​. They also embed tech specialists alongside deal professionals, fostering collaboration between data scientists and traditional investors​. As PE firms strengthen these foundations, the impressive capabilities seen in AI research can more readily translate to real investment gains."
+},
+{
+  "url": "https://blog.able.co/blog/introducing-michelle-yi-head-of-applied-ai",
+  "text": "Introducing Michelle Yi, Head of Applied AI\nA conversation with Head of Applied AI, Michelle Yi: her journey, vision, and passion for AI innovation\nWe’re thrilled to announce that Michelle Yi has joined Able as our new Head of Applied AI in January 2025. With over 15 years of experience spanning roles at IBM and leadership positions in AI innovation, Michelle brings a wealth of expertise and a vision that aligns perfectly with Able’s mission to combine world-class human talent with cutting-edge AI tools.\nMichelle’s career has been defined by her dedication to using AI for societal good, from her groundbreaking work in breast cancer research to her leadership in AI. She is also deeply committed to advancing diversity and inclusion in the tech industry. Michelle is an active supporter of Girls Who Code and on the board of Women in Data, organizations dedicated to empowering underrepresented groups in STEM, and she was a finalist for the prestigious Women in Technology Woman of the Year (Science) award.\nAs Able continues to empower our partners with AI-powered solutions, Michelle’s expertise will play a pivotal role in enhancing our AI-powered Software Development Lifcycle (SDLC) offerings. Her leadership will help us deliver even greater efficiency, innovation and scalability for mid-market companies navigating their digital transformation journeys. \nWe’re honored to have her on the team and look forward to achieving incredible milestones together.\nGet to Know Michelle\nWe sat down with Michelle for an exclusive interview where she shared her career journey, vision for AI at Able, and insights on AI’s transformative potential and her leadership philosophy.\nIntroducing Michelle Yi, Head of Applied AI at Able - YouTube\nKey Highlights from Our Conversation\nMichelle’s Career and Contributions: From her engineering days at IBM to working on Watson and leading AI initiatives for societal good, Michelle shared her inspiring journey, including her work in breast cancer research and her advocacy for diversity in tech.\nThe Future of AI: Michelle discussed AI’s transformative potential across industries and emphasized the importance of cross-disciplinary collaboration. She believes that AI is for everyone and encourages all team members—technical or not—to engage with it.\nLeadership in AI Projects: Advocating for a \"team of teams\" approach, Michelle highlighted the importance of collaboration across departments and external partnerships to ensure successful AI implementation and market impact.\nAI Research and Innovation: Michelle is excited about the future of AI, particularly advancements in architectures and world models, which could unlock innovations in robotics, collective intelligence, and beyond.\nEngaging and Learning in AI: A strong advocate for inclusion, Michelle encourages experimentation and community involvement to bring diverse perspectives into AI, fostering better solutions and greater innovation.\nJoin Us in Welcoming Michelle Yi\nAs we continue to empower our partners with AI-powered solutions, Michelle’s expertise will undoubtedly enhance our ability to innovate and drive efficiency. We’re honored to have her on the team and look forward to achieving incredible milestones together."
+},
+{
+  "url": "https://blog.able.co/blog/introducing-michelle-yi-head-of-applied-ai?hsLang=en",
+  "text": "Introducing Michelle Yi, Head of Applied AI\nA conversation with Head of Applied AI, Michelle Yi: her journey, vision, and passion for AI innovation\nWe’re thrilled to announce that Michelle Yi has joined Able as our new Head of Applied AI in January 2025. With over 15 years of experience spanning roles at IBM and leadership positions in AI innovation, Michelle brings a wealth of expertise and a vision that aligns perfectly with Able’s mission to combine world-class human talent with cutting-edge AI tools.\nMichelle’s career has been defined by her dedication to using AI for societal good, from her groundbreaking work in breast cancer research to her leadership in AI. She is also deeply committed to advancing diversity and inclusion in the tech industry. Michelle is an active supporter of Girls Who Code and on the board of Women in Data, organizations dedicated to empowering underrepresented groups in STEM, and she was a finalist for the prestigious Women in Technology Woman of the Year (Science) award.\nAs Able continues to empower our partners with AI-powered solutions, Michelle’s expertise will play a pivotal role in enhancing our AI-powered Software Development Lifcycle (SDLC) offerings. Her leadership will help us deliver even greater efficiency, innovation and scalability for mid-market companies navigating their digital transformation journeys. \nWe’re honored to have her on the team and look forward to achieving incredible milestones together.\nGet to Know Michelle\nWe sat down with Michelle for an exclusive interview where she shared her career journey, vision for AI at Able, and insights on AI’s transformative potential and her leadership philosophy.\nIntroducing Michelle Yi, Head of Applied AI at Able - YouTube\nKey Highlights from Our Conversation\nMichelle’s Career and Contributions: From her engineering days at IBM to working on Watson and leading AI initiatives for societal good, Michelle shared her inspiring journey, including her work in breast cancer research and her advocacy for diversity in tech.\nThe Future of AI: Michelle discussed AI’s transformative potential across industries and emphasized the importance of cross-disciplinary collaboration. She believes that AI is for everyone and encourages all team members—technical or not—to engage with it.\nLeadership in AI Projects: Advocating for a \"team of teams\" approach, Michelle highlighted the importance of collaboration across departments and external partnerships to ensure successful AI implementation and market impact.\nAI Research and Innovation: Michelle is excited about the future of AI, particularly advancements in architectures and world models, which could unlock innovations in robotics, collective intelligence, and beyond.\nEngaging and Learning in AI: A strong advocate for inclusion, Michelle encourages experimentation and community involvement to bring diverse perspectives into AI, fostering better solutions and greater innovation.\nJoin Us in Welcoming Michelle Yi\nAs we continue to empower our partners with AI-powered solutions, Michelle’s expertise will undoubtedly enhance our ability to innovate and drive efficiency. We’re honored to have her on the team and look forward to achieving incredible milestones together."
+}],
+{
+  "heading": "Our Partners",
+  "subheading": "We pride ourselves on long-term strategic relationships and prefer to call our clients partners.",
+  "partners": [
+    "Our Partners",
+    "Caring",
+    "kalkomey™",
+    "WE THE ACTION",
+    "giving credit",
+    "Harmonic Health",
+    "REDESIGN HEALTH",
+    "[ S Y N T A X ]",
+    "BATON",
+    "Quiller✒️",
+    "Beanstalk",
+    "Updater",
+    "KCRW",
+    "OmniTrial",
+    "MIGHTY PORTFOLIO",
+    "Outpace",
+    "Abstract",
+    "Wishbone",
+    "InvestED",
+    "airtime"
+  ]
+},
+{
+  "stats": [
+    {
+      "value": "38",
+      "description": "Growth stage children in development"
+    },
+    {
+      "value": "600+",
+      "description": "Monopoly Deal games completed"
+    },
+    {
+      "value": "∞",
+      "description": "Debates about the merits of different condiments"
+    }
+  ]
+},
+{
+  "company": "Able",
+  "contact_purpose": "General inquiries or partnership opportunities",
+  "website": "https://able.co",
+  "contact_page_url": "https://able.co/contact",
+  "preferred_contact_method": "Web form via contact page",
+  "additional_notes": "Visitors are encouraged to use the web form on the contact page to initiate communication with the Able team."
+},
+{
+  "title": "Unlocking Growth and Empowering a Company Exit",
+  "subtitle": "Delivering strategic technology, process, and organizational execution",
+  "image_caption": "A young professional man leads a small business meeting in modern office conference room space",
+  "services_offered": "AI & LLM Research, Development, and Evaluation; User Research, Rapid Prototyping, Product Design, Technical Strategy, architecture, and full-stack web development; Creation of artifacts: Vision, Proto-personas, Service blueprints, Product pillars, MVP roadmap, User flows; Development of custom AI model and beta application",
+  "outcomes": {
+    "summary": "Over a 12-month engagement, Able successfully helped move with the client through a transformative period while maintaining business stability.",
+    "key_outcomes": [
+      {
+        "title": "Operational Efficiency",
+        "description": "Consolidation of nearly a dozen legacy technology platforms reduced operational costs and improved system performance."
+      },
+      {
+        "title": "Revenue Growth",
+        "description": "The client achieved double-digit top-line growth rates through the introduction of new features and enhancements to existing products."
+      }
+    ]
+  },
+  "story": {
+    "section_title": "The Story",
+    "image_caption": "Illustration of paper and a pen, signifying notes that are part of a story",
+    "description": "As a private equity-backed company, the client experienced significant growth through the acquisition of several complementary companies, teams, and platforms. Over the years, these acquisitions led to a fragmented organizational structure and a diverse technology stack. By 2023, the client recognized the need to consolidate its operations and technology to drive the next phase of growth efficiently. The challenge was to unify these accumulated assets into a cohesive, efficient, and scalable organization and technology ecosystem."
+  },
+  "discovery_phase": {
+    "section_title": "Discovery Phase",
+    "image_caption": "Illustration of a telescope, signifying looking intensely at things that may be far away",
+    "activities": [
+      {
+        "title": "Organizational Analysis",
+        "description": "Engaging with key stakeholders to understand their roles, perspectives, and pain points."
+      },
+      {
+        "title": "Process Mapping",
+        "description": "Documenting existing processes and tools to identify redundancies and inefficiencies."
+      },
+      {
+        "title": "Technology Audit",
+        "description": "Evaluating the current product technology stack to identify overlaps, gaps, and opportunities for integration."
+      }
+    ]
+  },
+  "strategic_recommendation": {
+    "section_title": "Strategic Recommendation",
+    "image_caption": "Illustration of nautical star graphic signifying a directional tool like a compass",
+    "recommendations": [
+      {
+        "title": "Technology Consolidation",
+        "description": "Creating a roadmap to unify disparate technology platforms into a single, scalable system."
+      },
+      {
+        "title": "Product Development Process Improvement",
+        "description": "Process, artifacts, and accountabilities to improve the strategic value of product development, while increasing efficiency."
+      },
+      {
+        "title": "Growth Roadmap",
+        "description": "Identifying key growth initiatives and new value-adding features to enhance the customer experience."
+      }
+    ]
+  },
+  "implementation_support": {
+    "section_title": "Implementation Support",
+    "image_caption": "Illustration of a small rocketship launching out of a cardboard box, signifying product launch",
+    "activities": [
+      {
+        "title": "Requirements Definition",
+        "description": "Creating detailed product designs and meticulously defined user stories that served as the blueprint for engineering tasks, and aligned each project component to the strategic goals."
+      },
+      {
+        "title": "Engineering Execution",
+        "description": "Providing top-tier engineering resources to assist with architectural definition, platform integration, and feature development to create a robust and scalable technological foundation."
+      },
+      {
+        "title": "Product Launch",
+        "description": "Managing agile development processes and aligning with go-to-market teams to rapidly and efficiently bring new impactful features to the market and drive significant value."
+      }
+    ]
+  }
+},
+{
+  "title": "Revolutionizing Fundraising Through Generative AI",
+  "subtitle": "Empowering progressive causes for positive change",
+  "cta": "Visit",
+  "website": "Quiller.ai",
+  "image_caption": "Two business men looking at a laptop screen together, signifying working collaboration",
+  "services_offered": "AI & LLM Research, Development, and Evaluation; User Research, Rapid Prototyping, Product Design, Technical Strategy, architecture, and full-stack web development; Creation of artifacts: Vision, Proto personas, Service blueprints, Product pillars, MVP roadmap, User flows; Development of custom AI model and beta application",
+  "outcomes": [
+    "AI-idea validation to beta customers in six months",
+    "Supported public launch and pre-seed fundraise of $1.2M",
+    "200+ waitlist sign-ups at beta launch"
+  ],
+  "outcomes_image_caption": "Quiller software interface is displayed in a laptop in a bright office space, to demonstrate the content library feature",
+  "story": {
+    "section_title": "The Story",
+    "description": "Founded by Mike Nellis, Authentic.org empowers progressive political campaigns through digital marketing and fundraising. To address critical challenges, such as scams and inefficient content generation, Mike envisioned leveraging AI. Partnering with Able in December 2022, the journey to harness AI for positive change began."
+  },
+  "discovery_phase": {
+    "section_title": "Discovery Phase",
+    "description": "Mike and his team embarked on a six-week discovery engagement led by Able, exploring the potential of generative AI to revolutionize political campaign fundraising. Comprehensive AI and LLM research and collaboration with his team of content creators led to the birth of Quiller. A lean proof of concept by Able showcased Quiller's ability to generate impactful fundraising emails, illustrating how AI could streamline campaign communications."
+  },
+  "mvp_phase": {
+    "section_title": "MVP Phase and Pre-Seed Raise",
+    "description": "Encouraged by positive feedback and investor interest, Quiller continued with Able to begin the MVP build phase. The team aimed to launch a robust product by H2 2023, in time for the 2024 election campaigns. In June 2023, Quiller secured a significant $1.2M pre-seed funding, validating its AI-powered fundraising tool and enabling further enhancement."
+  },
+  "public_launch": {
+    "section_title": "Public Launch and Expansion",
+    "image_caption": "Photograph of five Quiller team members at a Quiller booth at Netroots Nation conference during their public launch",
+    "description": "At Netroots Nation conference, Quiller's public launch was recognized by a \"Best New Feature\" nomination, acknowledging its impact on empowering progressive causes.\n\nBeyond fundraising emails, Quiller envisions a suite of AI-powered tools tailored for various campaigns and platforms, amplifying their impact. Quiller continues to refine its AI model, embracing cutting-edge technology and user feedback to deliver an ever-improving product."
+  },
+  "future": {
+    "section_title": "Anticipating Transformation",
+    "description": "Quiller's innovative AI application has the potential to revolutionize political campaign engagement, addressing challenges and enhancing progressive causes. As Quiller evolves, it leads the charge in a new era of digital fundraising, empowering candidates and organizations to make lasting positive change in society."
+  }
+},
+{
+  "title": "We Built a 0-1 Connected System to Provide Holistic Care for Dementia Patients",
+  "subtitle": "Building a connected system to holistically care for dementia patients",
+  "cta": "Visit",
+  "website": "Harmonichealth.com",
+  "image_caption": "An older couple sits at a bench on a pier, looking out over a moderately active beach. The Harmonic Health logo appears over the image.",
+  "services_offered": [
+    "Product Strategy",
+    "MVP Roadmap Development",
+    "UX Strategy",
+    "UI Design",
+    "Technical Strategy",
+    "Scalable Microservices Architecture",
+    "EHR Data Management",
+    "Software Development",
+    "QA Testing",
+    "HIPAA Compliant Infrastructure and Data Security",
+    "FHIR Data Interoperability"
+  ],
+  "outcomes": [
+    "Production ready MVP in six months",
+    "Direct integration and patient data synchronization with EHR platform, FHIR data system, and clinical assessment tools",
+    "HIPAA compliance readiness",
+    "Alignment with CMS's GUIDE program"
+  ],
+  "outcomes_image_caption": "Harmonic Health software interface is shown, to demonstrate the Referral Coordination Outreach feature. All data shown is illustrative.",
+  "story": {
+    "section_title": "The Story",
+    "description": "Harmonic Health, a company funded by Redesign Health and born from personal caregiving experiences, is rethinking care for dementia patients by empowering both patients and caregivers throughout their difficult journey. With a commitment to advancing dementia care through a holistic understanding of patient symptoms and coordinated care teams, Harmonic Health utilizes multiple data systems and clinical assessment tools to build comprehensive patient profiles and develop personalized care paths. Redesign Health relied on Able’s partnership to provide embedded product design, engineering, and business-building support to portfolio companies like Harmonic Health during their early launch phases."
+  },
+  "interface_image_caption": "Harmonic Health software interface is shown, to demonstrate Records and Patients experiences. All data shown is illustrative. Learn more about our policies around Security, Transparency, & Governance.",
+  "partnership": {
+    "section_title": "Partnership with Able",
+    "description": "Able worked closely with Harmonic Health’s executive team as their product development partner. Harmonic Health and Able created a clear mission to launch the first version of the product to scale their operations and bring value to their clinicians as quickly as possible.",
+    "team_collaboration": "Our team, comprising of product strategy, design and engineering talent, collaborated closely with Harmonic’s executive and clinical team to translate the vision and care model into product requirements, build-ready designs, an MVP roadmap, a synchronized data system, and support an iterative clinical care model."
+  },
+  "solutions": {
+    "Map Patient Data": "Create the patient data system by mapping patient data across multiple sources, including the product database, Healthie (EHR), Zus (FHIR), and Awell (assessment tools)",
+    "Design Paths": "Bring early value to clinicians by designing intuitive paths to find patient data and customized appointment guides.",
+    "Support Iteration": "Support iteration in the clinical process through integration with automated tools to build and modify care paths with little engineering support."
+  },
+  "process": {
+    "description": "The work was accomplished through an initial four-week discovery and definition phase, followed by a five-month iterative design and build cycle, to launch a production-ready application within six months. This process enabled Harmonic Health to refine its evolving clinical process and recruit new potential healthcare partners."
+  }
+},
+{
+  "title": "Driving Innovation to Break the Cycle of Poverty",
+  "subtitle": "How technical strategy and solutions empower systems change",
+  "cta": "Visit",
+  "website": "Uptogether.org",
+  "hero_image_caption": "Image of smiling mother and holding her three small children. The UpTogether logo is displayed over the image.",
+  "services_offered": "Full-stack web development, Technical discovery and system audit, Technical strategy, System architecture design.",
+  "outcomes": [
+    "Expedited development for feature development and maintenance",
+    "Identified areas across the platform to reduce complexity and streamline operations",
+    "Supported security compliance practice improvements and recommendations"
+  ],
+  "interface_image_caption": "UpTogether software interface is shown, to demonstrate the UpTogether home page experience. The home page includes an image of a mother with her two small children kissing her face in front of a fountain.",
+  "story": {
+    "title": "The Story",
+    "description": "In October 2021, Able was brought on to support UpTogether’s internal engineering team with specific projects, collaborating with another vendor and the internal team. UpTogether, a platform helping undervalued communities access capital, had operated for over 20 years with minimal focus on technical optimizations. Over time, we became their sole engineering partner, addressing platform-wide projects. In 2023, we conducted a thorough assessment of the software architecture to identify and resolve key system issues."
+  },
+  "assessment_process": {
+    "title": "Assessment Process",
+    "description": "The assessment focused on both backend and frontend solutions, analyzing the breadth of existing Python microservices. Additionally, the AWS architecture, Lambdas, API Gateways, scheduled tasks, event handlers, and RDS instances were evaluated.",
+    "methods": [
+      "Internal Engineering team interviews and follow-ups",
+      "Deep dive into the existing documentation",
+      "Technical Audit of Systems",
+      "First-hand knowledge and experiences from the Able team, having already worked on several areas"
+    ],
+    "timeline": "The assessment was completed by the Tech Lead and a part of the assigned team over the span of three months, as they kept working on new releases and other improvements in parallel."
+  },
+  "search_interface_caption": "UpTogether software interface is shown, to demonstrate the search and results experience",
+  "key_findings": {
+    "title": "Key Findings",
+    "description": "We provided several high-level recommendations to enhance system performance and streamline operations. We identified the need for modifications to existing services, such as implementing web-hooks and notifications, and advised the deletion of unused code while emphasizing the importance of following the DRY (Don't Repeat Yourself) principle. Additionally, we suggested better utilization of AWS tools like Cloud Map for service discovery and management. Our recommendations also included adopting best practices for service versioning, dependency management, and security compliance. We conducted an in-depth evaluation of micro-services, highlighting both the benefits and the challenges, including increased operational complexity, data management issues, and communication overhead. As a simpler alternative, we proposed a modular monolith approach, which reduces complexity and streamlines operations. On the front end, we recommended framework updates to achieve a modern stack with less development overhead and advised reducing unnecessary dependencies to further improve efficiency."
+  },
+  "mobile_interface_caption": "A man is viewing the UpTogether site in his mobile phone, where he can apply for Covid relief through UpTogether",
+  "technical_assessment_value": "Our technical assessment services provide deep insights into your system's architecture and performance, offering tailored recommendations to enhance efficiency and scalability.",
+  "output": {
+    "title": "Output",
+    "description": "The final delivery defined key findings and recommendations, including a detailed comparison of Microservices, Monolith, and Modular Monolith architectures, tailored for UpTogether. Additionally, a comprehensive architectural visualization of the entire system was provided to support the analysis and proposed solutions."
+  }
+},
+{
+  "title": "Streamlining Value-Based Care Contracting",
+  "subtitle": "Accelerating alignment in value-based care contracting for health plans and providers",
+  "cta": "Visit",
+  "website": "Meetsyntax.com",
+  "hero_image_caption": "A woman and man are having a conversation in a professional setting. The Syntax logo is displayed over the image.",
+  "services_offered": "Product Design, Visual Design, Product Strategy, Project Management, Technical Architecture, Software Development, Data Engineering, QA Testing",
+  "outcomes": [
+    "Launched MVP within the first six months of the partnership",
+    "Delivered a production-ready product in nine months",
+    "Onboarded paying customers in 11 months"
+  ],
+  "interface_image_caption": "Syntax software interface is shown, to demonstrate the Model feature",
+  "partner": {
+    "title": "The Partner",
+    "description": "Syntax Health, a company conceived and funded by Redesign Health, is the first and only two-sided SaaS solution for Value-Based Care (VBC) modeling and contracting. Redesign Health relies on Able’s partnership to provide their portfolio companies with embedded product design, engineering, and overall business-building support in their early launch phases."
+  },
+  "story": {
+    "title": "The Story",
+    "description": "Syntax aims to streamline and scale the value-based care contracting process by leveraging analytics, infrastructure, and a collaborative virtual workspace. We built Syntax to help teams model and negotiate value-based care at scale so they can focus their expertise on achieving value-based care objectives, improving outcomes, and reducing costs.\n\nSyntax and Able achieved their ambitious six-month MVP target, delivering a production-ready solution positioning Syntax for rapid growth and securing vital seed funding.\nAble joined Syntax's founding team as their product development partner and had a clear mission: to expedite launching a customer-ready, commercially viable product. Our team, comprising design and engineering talent, refined Syntax's product requirements and established a roadmap for delivering an MVP within six months. Our team met this ambitious goal and defined, designed, and developed a production-ready application within the timeframe. This accomplishment enabled Syntax to present a fully functional MVP application to potential customers."
+  },
+  "second_phase": {
+    "description": "In our second phase of work with Syntax, we successfully developed a customer-ready version of the product and poised the business for scalability. Subsequently, Syntax began acquiring and onboarding its first customers, reaching revenue status in the first 12 months of launch. This remarkable journey spanned 11 months from conceptualization to establishing a fully-fledged, value-generating solution."
+  },
+  "quote_1": {
+    "quote": "The value we received from Able’s partnership was unprecedented. From day one, they went above and beyond to give us every advantage as we brought Syntax to market.",
+    "author": "Rachael Jones, CEO of Syntax"
+  },
+  "interface_images_caption": [
+    "Two Syntax software interfaces are shown, to demonstrate Managing Contracts and Models features",
+    "Two Syntax software interfaces are shown, to demonstrate model and chat features",
+    "Syntax software interface module showing display of a dashboard reporting feature"
+  ],
+  "conclusion": {
+    "description": "The collective achievements of Syntax and Able stand as a testament to our commitment to providing our partners with a concentrated burst of premium product engineering expertise with the shared goal of accelerating the zero-to-market journey with a fixed amount of pre-seed funding."
+  },
+  "quote_2": {
+    "quote": "Able is a go-to-market cheat code for early founder teams. Without them, we couldn’t have moved this fast (and with such high quality).",
+    "author": "Will Hudgins, VP of Engineering Syntax"
+  }
+},
+{
+  "title": "Updater: An App to Take the Pain Out of Moving",
+  "subtitle": "Moving is complicated. We helped build an app for that.",
+  "cta": "Visit",
+  "links": ["Google Play Store", "Apple Store"],
+  "hero_image_caption": "Three men move items out of a moving van on an urban city street. The Updater logo appears over the image.",
+  "services_offered": "Product strategy, technical project management, React Native development, user experience audit and design",
+  "outcomes": [
+    "3x increase in TV and internet signup conversion rates",
+    "4.5+ star ratings in the iOS and Android app stores",
+    "iOS and Android apps developed and released in under three months"
+  ],
+  
+  "background": "Established in 2010, Updater’s vision is to make moving a frictionless and delightful experience. They deliver this by helping users organize and complete moving-related tasks like booking movers, buying boxes, securing insurance, setting up services like utilities, TV, and internet, and more.\n\nUpdater hadn’t built a mobile app because its users weren’t demanding one – historically, Updater found that people weren’t willing to download an app for such a short period of time (while preparing for a move).\n\nBut, as the business grew and Updater began to tackle both pre- and post-move needs, the Updater team realized that their reliance on email, SMS, and mobile web could be better complemented with a mobile app. Updater approached Able to help craft and implement a new mobile strategy that would lay a strong foundation for the future and help them engage with users throughout the move journey in a modern way.",
+  "context_image_caption": "A man is using the Updater application on his phone in a coffee shop to view his moving tasks",
+  "strategy_quote": "Our strategy prioritized speed over feature expansion to capture revenue and better serve customers.",
+  "strategy_paragraph": "Because “moving season” takes place every summer in America and Updater reached out in early Spring, we knew that transitioning user behaviors to the app fast was the key to ensure continuous and increased revenue for moving season. Our strategy prioritized speed over feature expansion to capture revenue and better serve customers when they need Updater the most.",
+  "features_image_caption": "Two software interfaces show the Updater application in use to demonstrate in the application where a person can buy moving boxes or see a list of tasks related to moving into a new home",
+  "development_paragraph": "Our development approach applied a hybrid app strategy, leveraging React Native, web wrappers, and web views to create the initial release in less than three months. After launch, we cycled through the app to replace wrappers with native components where we felt the impact justified the effort. We also conducted a thorough UX review and introduced a consistent design system using Updater’s design components.",
+  "results_paragraph": "The success of the initial release and UX enhancements have helped Updater triple its order rates for critical products within the app—a primary driver for their business. The dramatic impact of the work on their bottom line was the validation Updater needed to double-down on the future of their mobile app, and we are looking forward to building more incredible tech as partners.",
+  "cta_secondary": "View On App Store"
+},
+{
+  "title": "The Future of Employee Benefits Delivery",
+  "subtitle": "Revolutionizing healthcare, one custom benefit at a time",
+  "cta": "Visit",
+  "website": "Beanstalkbenefits.com",
+  "hero_image_caption": "Colorful illustration showing a mother working at her desk, a son coming home from school with his grandmother and showing off a test where he received an A grade. The Beanstalk logo is displayed over the image.",
+  "services_offered": "Product Design, Branding, UI Design, User Testing, Branding Exploration, Technical Architecture, Software Development, QA Testing",
+  "outcomes": [
+    "Secured a fast follow seed funding round",
+    "Built and launched to production in 10 months",
+    "Onboarded first customers in 11 months"
+  ],
+  "software_interface_caption_1": "Two software interfaces of Beanstalk show categories where users can discover benefits, such as Mind, Body, Lifestyle, Family, Money, Health and Wellness and also from the user's employer",
+  "partner_logo": "Redesign Health logo",
+  "partner_description": "Beanstalk Benefits, a company conceived and funded by Redesign Health, is pushing the boundaries of modern health insurance benefits. Redesign Health relies on Able’s partnership to provide their portfolio companies with embedded product design, engineering, and overall business-building support in their early launch phases.",
+  "interface_caption_2": "Beanstalk software interface shows where a registered user can start the Personalization process within the Beanstalk application",
+  "story": "Beanstalk Benefits is creating more accessible health and lifestyle benefits to give people access to options that better fit their needs. Able was handpicked to collaborate with Beanstalk's founding team during their stealth phase, with a clear mission of accelerating the path to launching a customer-ready and commercially viable product. Our design and engineering team swiftly immersed themselves in Beanstalk's product vision, working to translate it into reality.",
+  "quote_tagline": "Through Able’s design and engineering partnership, Beanstalk is fast-tracking the revolution in employee benefits delivery, setting a new industry standard.",
+  "interface_caption_3": "Beanstalk software interface shows confirmation that the registered user has completed their profile and now receives a reward to see special content just for them",
+  "value_delivery": [
+    "Incorporating behavioral science principles into an onboarding experience using Slack to transition smoothly to a personalized benefits platform",
+    "Conducting user research to implement feedback quickly into prototypes to support the sales team",
+    "Pivoting the first iteration in three weeks based on market needs to have a fully working prototype in time for a major health conference, garnering stellar feedback from potential customers",
+    "Evaluating the visual brand identity and adjusting for digital optimization and accessibility standards while creating a scalable component design system",
+    "Fostering collaboration with the head of engineering, emphasizing quality development with a focus on high code coverage and the implementation of scalable, tailored solutions",
+    "Leveraging top-tier, widely used open-source technologies and frameworks for scalability and reliability",
+    "Implementing DevOps best practices for efficiency and scalability"
+  ],
+  "interface_caption_4": "Beanstalk software interface images show the kinds of benefits and services available to registered Beanstalk users, in this case, anxiety benefits for both adults and children",
+  "interface_caption_5": "Two Beanstalk software interface screens demonstrate more of the Beanstalk user experience by showing the user profile settings page and the user Wallet page, which shows what payment methods are available to that user",
+  "interface_caption_6": "Two Beanstalk software interface screens demonstrate more of the Beanstalk benefit categories and options avaible for users, in this case, for Family and Lifestyle benefits",
+  "closing_paragraph": "Through our dedication to providing technical expertise and design excellence, Able remains a committed partner in supporting Beanstalk's quest to revolutionize benefits delivery and ensure long-term industry success.",
+  "testimonial": {
+    "quote": "We needed to get our MVP in front of prospective customers during our launch phase to maintain critical momentum. Able delivered functionality and fidelity beyond our expectations.",
+    "author": "Matthew Sydney, CEO of Beanstalk"
+  }
+},
+{
+  "title": "We The Action: Unlocking the Power of Pro Bono",
+  "subtitle": "We built the platform that connects lawyers with the social causes that matter most.",
+  "cta": "Visit",
+  "website": "WeTheAction.org",
+  "highlight": "Election Protection",
+  "hero_image_caption": "Photograph of thousands of people protesting with the United States Capital building in the distance. The image has the logo We the Action, Connecting Lawyers with Causes overlaid.",
+  "services_offered": "Product strategy, user research and testing, rapid prototyping, user experience design, visual design, technical strategy and architecture, full-stack web development",
+  "outcomes": [
+    "$112 million in pro bono legal time paired and mobilized",
+    "500 non-profits supported",
+    "42,000 lawyers organized and committed to non-profit work"
+  ],
+  "software_interfaces_caption": "Two software interfaces of We The Action show how a lawyer can view We the Action to find a project and can see their Dashboard and registered user profile",
+  "story_image": "wta-story.jpg",
+  "story": "In key moments of social and political upheaval, it’s essential to quickly harness the energy and scale of volunteer expertise to respond to the moment. After the 2016 presidential election, We The Action (a nonprofit now part of Civic Nation) formed and partnered with Able to build a platform to do just that.\n\nNonprofits, often understaffed, don’t have the ability to effectively respond to offers to help, especially during times of social upheaval when hundreds want to get involved. On the other side of the equation, skilled volunteers often don’t know where they should go to help.",
+  "component_caption": "Software interface component card from a We the Action project shows the name of the project, the goal of the project and the estimated time commitment for the project",
+  "platform_launch": "WeTheAction.org launched in 2017, with the goal of making it easier for nonprofits to quickly structure projects and connect with legal volunteers, and for legal professionals to easily identify the pro bono opportunities that match their experience, interests, and schedule.",
+  "platform_evolution": "Since then, activism in the US has evolved and become an essential part of everyday discourse. In response, we’ve innovated our platform to provide the power of scale, the simplicity of focus, and the network effect of multiple distributed teams working toward a common goal.",
+  "activism_use": "These tools have been used in key moments of activism.",
+  "dobbs_caption": "Photograph shows thousands of people protesting against the Dobbs decision outside of the United States Supreme Court",
+  "dobbs_description": "The Supreme Court Dobbs Decision. We The Action was built to respond to moments in history like this. The easy to use platform allowed us to quickly onboard new partners as we helped identify impactful ways for volunteer lawyers to ensure that access to safe and effective abortion care remains available to as many people as possible.",
+  "afghan_caption": "Photograph shows dozens of Afghan refugee families walking in a heavily fenced and barricaded area",
+  "afghan_description": "The Afghan Refugee Crisis. In 2021 our platform powered the Welcome Legal Alliance's (WLA) effort to recruit lawyers and connect them with the nearly 80,000 Afghan refugees seeking legal assistance.",
+  "georgia_recount_image": "georgia-recount.jpg",
+  "georgia_recount_description": "The 2020 Recount in Georgia. Shortly after the polls closed on election night, we recruited over 250 lawyers to prepare for a recount in Georgia. Our platform helped lawyers see where they were needed, attend a training, and observe the vote tally in 40 counties around Georgia.",
+  "project_interface_caption": "Two software interfaces show what a project looks like in the We the Action application and how to join",
+  "tweet_image": "wta-tweet.png",
+  "impact": "Over the last five years, We The Action has built a community of over 43,000 lawyers and over 500 nonprofit partners. The result is $112 million in pro bono legal work delivered toward American democracy’s most pressing issues, and counting.",
+  "cta2": "Visit We The Action"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
 

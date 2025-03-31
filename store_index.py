@@ -1,4 +1,5 @@
-from src.helper import load_and_split_able_documents, download_hugging_face_embeddings
+
+from src.helper import pipeline, download_hugging_face_embeddings
 from pinecone.grpc import PineconeGRPC as Pinecone
 from pinecone import ServerlessSpec
 from langchain_pinecone import PineconeVectorStore
@@ -13,11 +14,8 @@ PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY')
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 
 # Load and split Able.co content from JSON
-text_chunks = load_and_split_able_documents(
-    json_path="Data/able_data.json",
-    chunk_size=300,
-    chunk_overlap=100
-)
+data_folder = "Data"  # Folder where your PDFs and JSON files are located.
+chunked_documents = pipeline(data_folder, max_tokens=40)
 
 # Load HuggingFace embeddings
 embeddings = download_hugging_face_embeddings()
@@ -39,7 +37,7 @@ if index_name not in [index_info.name for index_info in pc.list_indexes()]:
 
 # Embed and upsert documents into Pinecone index
 docsearch = PineconeVectorStore.from_documents(
-    documents=text_chunks,
+    documents=chunked_documents,
     index_name=index_name,
     embedding=embeddings,
 )
