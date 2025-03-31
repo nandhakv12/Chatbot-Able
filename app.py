@@ -8,6 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
 from src.prompt import *
 import os
+import re
 
 app = Flask(__name__)
 
@@ -49,15 +50,22 @@ rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 def index():
     return render_template('chat.html')
 
+import re
 
 @app.route("/get", methods=["GET", "POST"])
 def chat():
     msg = request.form["msg"]
-    input = msg
-    print(input)
+    print("User Input:", msg)
+
+    # Invoke RAG chain
     response = rag_chain.invoke({"input": msg})
-    print("Response : ", response["answer"])
-    return str(response["answer"])
+    answer = response["answer"].strip()  # The actual LLM response
+
+    # Remove unwanted prefixes like 'Answer:' or 'System:'
+    cleaned_answer = re.sub(r"^(Answer|System):\s*", "", answer, flags=re.IGNORECASE)
+
+    print("Response:", cleaned_answer)  # ✅ Print cleaned answer, not a nonexistent key
+    return cleaned_answer
 
 
 
