@@ -14,5 +14,8 @@ tqdm
 accelerate
 sentence-transformers
 spacy
+python-3.10.12
+nltk
+
 
 -e .
