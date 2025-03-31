@@ -5,6 +5,8 @@ import re
 import spacy
 from langchain.schema import Document
 from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
 
 # Load spaCy language model once
 nlp = spacy.load("en_core_web_sm")
