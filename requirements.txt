@@ -12,7 +12,7 @@ unstructured==0.17.2
 requests==2.32.3
 tqdm==4.67.1
 huggingface_hub==0.14.1
-accelerate==0.18.0
+accelerate>=0.20.3
 spacy==3.7.2
 nltk==3.9.1
 thinc==8.1.12
